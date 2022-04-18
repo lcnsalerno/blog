@@ -11,7 +11,7 @@ title: "Taboo"
 
 Empiezo esta serie de análisis de estructuras narrativas con algo un poco complejo: una serie de ocho episodios. ¿Debería haber empezado con una película? Sí, debería haberlo hecho.
 
-![taboo](content_assets\taboo\taboo-screenshot.webp){:class="img-responsive"}
+![taboo](content_assets\taboo\taboo-screenshot.webp)
 
 [Taboo](http://www.imdb.com/title/tt3647998/) es una serie de ficción ambientada en Londres en 1814, que narra las aventuras de James Delaney, interpretado por su co-creador Tom Hardy, en su búsqueda de venganza contra la sociedad que lo dio a luz.
 
