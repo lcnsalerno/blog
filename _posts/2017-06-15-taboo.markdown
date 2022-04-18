@@ -11,7 +11,7 @@ title: "Taboo"
 
 Empiezo esta serie de análisis de estructuras narrativas con algo un poco complejo: una serie de ocho episodios. ¿Debería haber empezado con una película? Sí, debería haberlo hecho.
 
-![taboo](_content_assets\taboo\taboo-estructura.png)
+![taboo](\content_assets\taboo\taboo-estructura.png)
 
 [Taboo](http://www.imdb.com/title/tt3647998/) es una serie de ficción ambientada en Londres en 1814, que narra las aventuras de James Delaney, interpretado por su co-creador Tom Hardy, en su búsqueda de venganza contra la sociedad que lo dio a luz.
 
@@ -33,7 +33,7 @@ Entonces, al final del primer episodio, mediante esta escena que funciona como e
 
 A partir de este planteo, la trama consiste en una serie de acciones y reacciones de Delaney y Strange en su lucha, en la cual intervienen dos agentes importantes pero secundarios, que son la Corona Británica y los Estados Unidos de América, encarnados en el Príncipe Regente y Solomon Coop por un lado, y el Doctor Dumbarton y Carlsbad por el otro. La trama, entonces, se puede diagramar de la siguiente manera:
 
-![Diagrama 1](_content_assets\taboo\taboo-estructura.png)
+![Diagrama 1](\content_assets\taboo\taboo-estructura.png)
 
 Cada círculo es un capítulo, y cada rectángulo es una acción principal llevada a cabo por alguno de los agentes centrales de la trama. La Corona y EE.UU. son agentes independientes, y por eso tienen su propio color, pero son funcionales a una u otra parte del enfrentamiento principal de acuerdo al momento de la trama.
 
@@ -43,7 +43,7 @@ Existe otra lectura posible de este relato, que es el de considerar a la muerte 
 
 A partir de este intento de asesinato, se presentan las peripecias de la trama, en las que entran en juego los agentes secundarios que son puestos al servicio de Delaney o de Strange. Más allá de EE.UU. y la Corona Británica como grandes actores, que alternan con o sin intención en su funcionalidad al protagonista o al antagonista, hay una serie de personajes que son claramente fieles a uno u otro bando de esta batalla. El siguiente gráfico ilustra el funcionamiento de estos personajes:
 
-![personajes](_content_assets\taboo\taboo-personajes-por-equipo.png)
+![personajes](\content_assets\taboo\taboo-personajes-por-equipo.png)
 
 Los personajes se ubican de izquierda a derecha según su relación de fidelidad con el protagonista, siendo Lorna Bow el personaje más fiel a Delaney, y Solomon Coop el más hostil. Esto último es interesante porque Solomon Coop y el Príncipe Regente (la Corona Británica) terminan oponiéndose a Delaney más que el mismo Stuart Strange (sobre esto vuelvo más adelante).
 
