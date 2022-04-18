@@ -1,5 +1,0 @@
----
-title:  "Git"
----
-
-Me parece que este método de blogueo es una mierda.
