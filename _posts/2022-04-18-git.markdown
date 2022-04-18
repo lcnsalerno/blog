@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Git"
-date:   2022-04-18 16:04:00 -0700
 ---
 
 Me parece que este método de blogueo es una mierda.
