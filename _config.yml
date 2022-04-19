@@ -34,8 +34,12 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - videogames.md
-  - film.md
+  - _pages/videogames.markdown
+  - _pages/film.markdown
+  - _pages/blog.markdown
+
+include:
+  - _pages
 
 defaults:
   -
