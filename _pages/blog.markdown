@@ -4,3 +4,5 @@ title: Blog
 permalink: /blog/
 menu: main
 ---
+
+Most of the following posts are in Spanish, although some are in English. It is a goal of mine to have all the content available in both languages, but it will take some time.

@@ -6,16 +6,15 @@
 layout: home
 ---
 
-Hello and welcome! My name is Luciano.
+Writer of film, video games, and fiction. 
 
-I’m a writer of film, video games, and fiction, and have been so for as long as I can remember.
+Throughout all the shifts in interests and activities I've gone through in my life, writing is the only thing that has remained constant. I have never stopped writing. I probably never will.
 
-I’m specialized in interactive and video game narrative, but have a deep love for storytelling in all its variants, having written in several formats and media both in English and Spanish. 
+Writing for film is a lifelong passion of mine, and as such, my academic background is in Screenwriting (UNA, Buenos Aires, and UCLA, Los Angeles).
 
-Right now, I’m living in Los Angeles, California.
+Years ago I discovered video game writing as a professional path, and being a big video game enthusiast I devoted myself to interactive narrative. I have written professionally for both commercial video games in the mobile scene and independent, experiemental projects.
 
-On this site, you can check out my portfolio and my resume. If you want to contact me, please feel free to do so.
-
+I live in Los Angeles, California.
 
 <p align="center">
 <img src="/content_assets/profile.jpg" width="300">

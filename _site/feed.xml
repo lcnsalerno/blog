@@ -1,4 +1,463 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-19T20:42:48-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luciano Salerno</title><subtitle>Writer</subtitle><entry><title type="html">Taboo</title><link href="http://localhost:4000/2017/06/15/taboo.html" rel="alternate" type="text/html" title="Taboo" /><published>2017-06-15T00:00:00-07:00</published><updated>2017-06-15T00:00:00-07:00</updated><id>http://localhost:4000/2017/06/15/taboo</id><content type="html" xml:base="http://localhost:4000/2017/06/15/taboo.html"><![CDATA[<p><em>Este artículo fue publicado originalmente en <a href="https://estructurasnarrativas.wordpress.com/">Estructuras Narrativas</a>, mi antiguo blog.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-28T16:23:58-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luciano Salerno</title><subtitle>Writer</subtitle><entry><title type="html">El nuevo western y la autoflagelación</title><link href="http://localhost:4000/el-nuevo-western-y-la-autoflagelacion" rel="alternate" type="text/html" title="El nuevo western y la autoflagelación" /><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><id>http://localhost:4000/el-nuevo-western-y-la-autoflagelacion</id><content type="html" xml:base="http://localhost:4000/el-nuevo-western-y-la-autoflagelacion"><![CDATA[<h2 id="hacia-un-análisis-de-la-reinvención-del-protagonista-de-frontera">Hacia un análisis de la reinvención del protagonista de frontera</h2>
+
+<p><em>The Last of Us Part II</em> termina con una secuencia que coquetea con el horror y, como otras secuencias en el juego, es abiertamente morbosa. Ellie, la protagonista que vimos crecer desde los trece años en <em>The Last of Us</em> (que, dicho sea de paso, podría argumentar que es otro personaje, con pocos puntos de conexión con su contraparte adulta) encuentra a Abby, su enemiga, y la obliga a pelear a muerte bajo amenaza de degollar a su ser más querido.</p>
+
+<p>La pelea entre Ellie y Abby es una sucesión de golpes duros, cuchillazos, y cualquier otra variante de agresiones entre las dos mujeres, que tiñe el agua en la que pelean con sangre. En un momento particularmente bestial, Abby muerde la mano de Ellie, arrancándole un par de falanges de dos dedos. La pelea no termina con la muerte de ninguna de las dos protagonistas del juego, porque en un ataque de lucidez (al que llevó cientos de muertes crueles y sangrientas llegar) Ellie decide perdonarle la vida a Abby en honor a su padre adoptivo, Joel.</p>
+
+<p>Habiendo sobrevivido a su búsqueda insaciable de venganza, Ellie vuelve a su hogar para encontrarlo casi enteramente vacío, con excepción de sus artículos personales apilados contra una pared de un cuarto. Entre ellos, está su guitarra.</p>
+
+<p>Para cuando llegamos a esta escena final, vimos varias veces a Ellie cantar y tocar la guitarra, canalizando las últimas gotas de humanidad que aún tiene. Ahora, habiendo perdido parcialmente dos dedos, ya no puede hacerlo. El resultado del periplo de nuestro personaje no es la muerte, sino algo que parece peor: la pérdida absoluta de eso que le recordaba a la humanidad.</p>
+
+<p><img src="/content_assets/western/thelastofus2.png" alt="The Last of Us Part II" /></p>
+
+<p><em>The Last Of Us Part II</em>, así como su primera parte, transcurren en un mundo donde no existe la creación cultural ni artística. Los ítems que se encuentran en el camino, sean cómics, películas o libros, son todos previos al 2013, año del apocalipsis que sufrió el mundo del juego. Las consolas de videojuegos son PS3 o Vita. Las canciones son siempre también de 2013 o anteriores. En este sentido, reproducir esas canciones con la guitarra es indefectiblemente un signo de lucha por intentar pertenecer a una humanidad que ya no existe. Para el final de <em>The Last of Us Part II</em>, Ellie ya no puede ni siquiera aferrarse a eso.</p>
+
+<p>La pregunta que Ellie no se hace con suficiente frecuencia, si es que se la hace en absoluto, es por qué su camino la lleva en esa dirección. Porque, algo que es evidente para todos nosotros, y para todos los que criticaron con total validez el argumento del juego, todo lo que le pasa a Ellie es su responsabilidad.</p>
+
+<p>Por un lado, su motivación—la venganza por la muerte de lo más parecido que tuvo a un padre—es completamente justificable. Sin mediar razones o explicaciones, en el universo del juego está claro que si alguien asesina a Joel, Ellie tiene que buscar a quien lo haya hecho y, como ella diría, hacerlo pagar. Pero eso, que podría construir una trama perfectamente completa, no es sin embargo suficiente para convertir a Ellie en una máquina de crueldad. No, el motor dentro de Ellie es otro, mucho más básico y visceral: la culpa.</p>
+
+<p>Como cantaba ella misma durante aquel tráiler que vio la luz en 2016:</p>
+
+<blockquote>
+  <p>No, I can’t walk on the path of the right because I’m wrong.</p>
+</blockquote>
+
+<p>Ellie sufre constantemente la culpa que siente por al menos dos razones: en lo personal, por no haber podido evitar la muerte de Joel y, peor aún, por no haber logrado reconciliar completamente su relación antes de que esta termine; en lo general, pero igualmente íntimo, por no haber salvado la humanidad teniendo la posibilidad de hacerlo. Con esta sensación de culpa y arrepentimiento permanente, sucumbe a un recorrido de destrucción que no hace más que empeorarla. A sus dos gigantes razones se suman a lo largo del juego muchísimas más, contabilizadas como cientos y cientos de asesinatos.</p>
+
+<p>Dos años antes del lanzamiento de <em>The Last of Us Part II</em> se estrenó la secuela de otro juego paradigmático de una generación previa, <em>Red Dead Redemption 2</em>. Como Ellie, esta vez Arthur Morgan se constituye como nuestro héroe torturado: con un pasado que en su mayor parte desconocemos, Arthur evoca permamente una sensación de culpa y malestar respecto a las cosas que ha hecho.</p>
+
+<p><img src="/content_assets/western/rdr2.png" alt="Red Dead Redemption 2" /></p>
+
+<p>En más de un diálogo reconoce haber sido un “mal hombre”, y en uno explica con precisión algunas de las cosas que hizo:</p>
+
+<blockquote>
+  <p>I’ve been killing… a lot, I mean, innocent folk. I don’t know why.</p>
+</blockquote>
+
+<p>También como Ellie, Arthur recorre un mundo más allá de la frontera y más allá de la cultura, y la hostilidad y falta de humanidad de su entorno reflejan con claridad el desierto ético y moral del personaje.</p>
+
+<p>Este recurso, plasmado en la idea misma de la historia de frontera (en <em>The Last of Us Part II</em>, la frontera es todo lo que está más allá de Jackson, Wyoming, y en <em>Red Dead Redemption 2</em> la frontera se escapa cada vez más al oeste de los personajes), no es más que una confirmación de que estamos ante dos obras que retoman, a su modo, el western como género.</p>
+
+<p>En acaso el western más paradigmático del género, <em>The Searchers</em> (1958), uno de los protagonistas es retratado también como un producto de su entorno. Ethan Edwards, encarnado en el infinito John Wayne, pertenece más al desierto que a la civilización. El plano más emblemático de la película, y uno de los planos más expresivos de la historia del cine, lo muestra del otro lado del umbral de la casa de Laurie Jorgensen.</p>
+
+<p><img src="/content_assets/western/searchers.jpeg" alt="The Searchers" /></p>
+
+<p>Aún después de la aventura que lo llevó durante años a vagar en busca de Debbie, Ethan no puede ni siquiera entrar a la casa, a la que al inicio del film sí ingresó, aunque muy brevemente.</p>
+
+<p>Ethan es parte del afuera. Como buen hijo del desierto, en su lucha interna entre civilización y barbarie no hay un claro ganador. Su odio contra los comanches, si bien nacido de sus experiencias personales, es extremo e irracional. Llega a dispararle en los ojos a un comanche muerto para evitar que, según las creencias de su pueblo, su alma encuentre el camino al cielo. Este personaje es héroe y villano a la vez, parte del mundo occidental pero a la vez un horror para el mismo: busca a la heroína, pero no para salvarla, sino para asesinarla por haberse unido al enemigo.</p>
+
+<p>Así, podemos conformar una tríada—por supuesto arbitraria—de anihéroes de frontera. Tanto Ethan como Ellie como Arthur están a medio camino entre la sociedad y lo salvaje, la seguridad y la violencia extrema. Pero hay una diferencia fundamental, que me atrevo a describir como la reescritura esencial del personaje del género: Ethan no siente culpa. Sí puede arrepentirse, y sí puede cambiar (en última instancia, no asesina a Debbie, sino que la devuelve a casa), pero no es permanentemente torturado por su propio accionar, y por cierto no lo profundiza en su intención de resolverlo.</p>
+
+<p>Ethan sabe que no puede volver a la sociedad (como lo saben, eventualmente, Ellie y Arthur), pero está en paz con ese hecho. Arthur no puede dejar de pensar en el mal que ha hecho, y su intento de resarcirlo es tan inútil como poco inteligente. Ellie, por su lado, a duras penas logra procesar la culpa, y lo único que puede hacer con ella es castigarse incansablemente. Ante la realidad de que ha hecho algo éticamente cuestionable, su respuesta es la apropriación de esa identidad moralmente negativa. Es decir, ante la mera posibilidad de ser un monstruo, Ellie decide convertirse en uno.</p>
+
+<p>En Ellie no hay intento de resarcimiento, y mucho menos aceptación y perdón. Siente tanto su propia culpa y su propio personaje, que no puede hacer más que mirarse en un hipotético espejo en el que es un ser horrible, y confirmarlo una y otra vez. El resultado, entonces, es el esperable: no hay reflexión ni conclusión posible para el personaje. Se libera de la responsabilidad (así como los autores se liberan de la responsabilidad de lidiar con ella) y de cualquier forma de redención. De ahí la sensación de vacío y superficialidad de The <em>Last of Us Part II</em>: no hay nada para decir sobre Ellie, así como ella no tiene nada para decir ni para pensar sobre ella misma. En su acumulación irracional y antidramática de atrocidades (no hay estructura narrativa, no hay crecimiento de personaje, hay solo acumulación), el relato muere tanto como ha muerto la cultura en el mundo del personaje.</p>
+
+<p>Donde Ethan entiende su lugar en la sociedad y en el teatro del mundo, Ellie y Arthur no pueden dejar de pensar en ellos mismos. Así, el clásico tópico de western que postula al desierto externo como reflejo del desierto interno encuentra una nueva escritura, en la que los personajes no ven en absoluto el desierto para empezar. No puedo ser lo suficientemente arriesgado como para vislumbrar una tendencia a partir de solo dos obras (a pesar de que, posiblemente, sean las dos obras más grandes del medio de los videojuegos de los últimos años), pero sí puedo permitirme señalar lo que se destaca por su apropriación del género tanto como por su reescritura. Tal vez estemos, hoy, ante un nuevo paradigma: el del antihéroe autoreferencial.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hacia un análisis de la reinvención del protagonista de frontera]]></summary></entry><entry><title type="html">El irlandés</title><link href="http://localhost:4000/the-irishman" rel="alternate" type="text/html" title="El irlandés" /><published>2020-03-12T00:00:00-07:00</published><updated>2020-03-12T00:00:00-07:00</updated><id>http://localhost:4000/the-irishman</id><content type="html" xml:base="http://localhost:4000/the-irishman"><![CDATA[<ul>
+  <li><strong>Año</strong>: 2019</li>
+  <li><strong>Guionista</strong>: Steven Zaillian</li>
+  <li><strong>Producción</strong>: TriBeCa Productions / STX Entertainment / Sikelia Productions</li>
+</ul>
+
+<p><img src="/content_assets/irishman/irishman1.png" alt="El irlandés" /></p>
+
+<p>Después de ver <em>El irlandés</em> estuve varios días inquieto pensando en qué sucedía, en términos estructurales, en la película. En principio, como sucede muchas veces con las películas de Scorsese, la trama aparecía como una larga sucesión de hechos anecdóticos en la vida de un personaje con escasa organicidad dramática.</p>
+
+<p>Desde este punto de vista, una interpretación posible sería esa: la película no tiene una estructura demasiado sólida, sino que sigue el hilo conductor de la vida de un personaje que tiene una participación alta (si bien con casi nula motivación propia) en una serie de anécdotas de la historia reciente de Estados Unidos.</p>
+
+<p>Tomando en consideración la importancia que toma el asesinato de Jimmy Hoffa en la segunda mitad de la película, y en las últimas escenas en las que Frank es interrogado años después del  hecho, cabe hacer un segundo análisis tomando a este hecho como el asunto central de la trama.</p>
+
+<p>Analizar la estructura narrativa de <em>El irlandés</em> tomando como eje de la misma el asesinato de Jimmy Hoffa tiene un peligro, que es el de considerar a la trama de Hoffa como la principal, y al resto de la película (que es mucha película) como simples tramas secundarias, introducciones o segmentos de poco peso estructural. Desde esta perspectiva, los primeros cuarenta y cinco minutos de la película, en los que Hoffa ni siquiera aparece, no serían más que una subtrama.</p>
+
+<p>Por otro lado, existe un peso dramático en las relaciones entre ciertos personajes que no corresponden únicamente a su rol en esa trama: la amistad entre Frank y Russell es la más significativa de estas relaciones. No se trata de un soporte al asesinato de Hoffa ni de una subtrama, y por momentos la complejidad de la relación opaca al resto de las tramas en su totalidad.</p>
+
+<p>Teniendo todas estas cosas en cuentas llegué a la interpretación de la estructura de <em>El irlandés</em> como una superposición de tres tramas de igual jerarquía, que encuentran su clímax en el mismo episodio dramático. Diagramado, podría resumirse de la siguiente manera:</p>
+
+<p><img src="/content_assets/irishman/irishman2.png" alt="Estructura narrativa" /></p>
+
+<p>Las tres tramas serían: por un lado, la de la amistad entre Frank y Russell; por otro lado, la de la amistad entre Frank y Hoffa (que no presenta una estructura clásica); y por último, la de Hoffa mismo y su relación con la mafia.</p>
+
+<p>La primera de estas tramas sucede, en principio, sin competencia por tiempo en pantalla de ninguna de las otras tres. Frank conoce a Russell, entra en la organización criminal, la traiciona, y Russell lo defiende, salvando su vida. A partir de esa defensa y del valor de la misma, marcado de forma explícita por el personaje de Angelo Bruno (Harvey Keitel), el vínculo entre Frank y Russell cambia de naturaleza, y se convierte en uno de fidelidad incondicional del primero hacia el segundo. La resolución de esta trama queda en suspenso hasta el desarrollo de las siguientes dos.</p>
+
+<p>Las dos tramas que continúan la película transcurren en paralelo y se alimentan mutuamente. Por un lado, desde un estructura no clásica (a menos que exista y no haya podido detectarla), se trata del crecimiento de la relación entre Frank y Jimmy Hoffa. Esta trama, y esta relación, tiene la misma jerarquía que la de la amistad entre Frank y Russell, personaje que resulta ser casi un extremo opuesto a Hoffa. Sobre el final de esta trama, en un paralelismo con la defensa de Russell ante Angelo, Jimmy Hoffa entrega un premio a la trayectoria a Frank a pesar de sus problemas personales con la mafia para asistir al evento, poniendo de relieve el nivel al que ha llegado su amistad.</p>
+
+<p>Por otro lado, existe la trama de la relación entre Hoffa y la mafia, que termina articulando a las otras dos (las amistades). Hoffa entra en conflicto con la mafia a partir de su apoyo al líder opositor a él, y a partir de ahí la situación escala en una serie de intentos y fracasos de arreglar sus problemas. Una vez que se anula la posibilidad de resolver este conflicto, las tres tramas encuentran su punto de unión.</p>
+
+<p>Russell le ordena a Frank el asesinato de Hoffa, activando el mecanismo de la fidelidad incondicional adquirida en su trama privada, que sobrepasa al de la amistad más humana y menos deudora establecida entre Frank y Hoffa mismo, terminándola para siempre. Este asesinato, además, resuelve la trama de Hoffa con la mafia. Es decir, las tres tramas encuentran su clímax en un mismo episodio, y es acá donde la efectividad de la estructura muestra su brillo. En una secuencia de catorce minutos de una precisión absoluta, las tres tramas se condensan, unifican y completan en un solo hecho, explotando en carga dramática muy por encima de lo que cada trama de forma independiente generaría en el mismo.</p>
+
+<p>Lo que queda, en mi interpretación, es una larga secuela de reflexión sobre lo que ese hecho condensó y significó para el protagonista, pero no aporta elementos estructurales a la trama.</p>
+
+<p><em>El irlandés</em> es un ejemplo excelente del uso de tramas múltiples por fuera de la obviedad de los relatos corales y del clasicismo de la división jerárquica entre tramas.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Año: 2019 Guionista: Steven Zaillian Producción: TriBeCa Productions / STX Entertainment / Sikelia Productions]]></summary></entry><entry><title type="html">Software de guión, un panorama</title><link href="http://localhost:4000/software-de-guion-un-panorama" rel="alternate" type="text/html" title="Software de guión, un panorama" /><published>2019-09-23T00:00:00-07:00</published><updated>2019-09-23T00:00:00-07:00</updated><id>http://localhost:4000/software-de-guion-un-panorama</id><content type="html" xml:base="http://localhost:4000/software-de-guion-un-panorama"><![CDATA[<p>Desde que empecé a estudiar guion, hace unos doce años, estoy disconforme con las opciones que existen dentro del nefasto rubro de los programas de escritura. Dado que creo haber encontrado la solución a todos mis problemas, estimo que es un buen momento para hacer un repaso de las opciones existentes y de lo que es probablemente la opción superadora a todas ellas.</p>
+
+<p>Vale aclarar que todos estos programas, con una sola excepción, son de guion audiovisual, y muy poco versátiles para escribir guion interactivo, videojuegos, o básicamente cualquier otra cosa que no sea cine o TV.</p>
+
+<h3 id="final-draft">Final Draft</h3>
+
+<p><img src="/content_assets/softwareguion/fade-in-1.jpg" alt="Final Draft" /></p>
+
+<p>Empecemos por lo obvio y saquémoslo del camino. Se da por sentado que <a href="https://www.finaldraft.com/">Final Draft</a> es el mejor software de guion del mundo, el estándar de la industria (concepción que el programa mismo construyó con mucho éxito) y que, en algún punto de la carrera de cualquier guionista, es necesario tenerlo.</p>
+
+<p>La realidad es que Final Draft es un programa muy, muy bueno. Y, con un equipo que hace lo contrario a dormirse en los laureles, no deja de mejorar. Además de su aspecto agradable y sus variadas opciones de formateo, todas muy cómodas, en su última versión el programa cuenta con algunas prestaciones que ayudan mucho en nuestra tarea, como el hermoso Beat Board.</p>
+
+<p>Sin duda todos seríamos muy felices utilizando solamente Final Draft, pero hay un detalle que complica las cosas. El precio estándar del programa es de $249.99 USD (o a lo sumo, en una promoción como la que hay ahora, $169.99). Para comparar con otro software de uso profesional: el paquete Adobe de fotografía, que incluye Photoshop y Lightroom, cuesta entre $6.00 y $10.00 USD por mes dependiendo del país. Recién después de dos años de uso uno llegaría a gastar lo mismo que Final Draft pide en un solo pago (descontando que, además, el pago en forma de suscripción se puede cancelar en cualquier momento).</p>
+
+<p>El precio irreal de Final Draft siempre lo dejó afuera de mis opciones de trabajo a largo plazo.</p>
+
+<h3 id="writer-duet">Writer Duet</h3>
+
+<p><img src="/content_assets/softwareguion/writer-duet-1.jpg" alt="Writer Duet" /></p>
+
+<p><a href="https://writerduet.com/">Writer Duet</a> fue, durante mucho tiempo, mi opción predilecta. Hace todas las cosas básicas que uno necesita de un programa de guion (aunque no mucho más que eso), y las hace directamente desde el navegador. Su concepto de almacenamiento permanente en la nube, que uno puede acceder desde cualquier dispositivo con igual facilidad, es práctico y atractivo.</p>
+
+<p>El plan gratuito permite crear un número (muy) limitado de proyectos, y los planes pagos van desde los $8.00 a los $20.00 USD por mes.</p>
+
+<p>La interfaz es un poco tosca y el funcionamiento no siempre es tan fluido como uno desearía. Además, la falta de prestaciones adicionales a la simple escritura me alejó del programa y contribuyó a mi decisión de no mejorar mi suscripción a planes pagos.</p>
+
+<h3 id="fade-in">Fade In</h3>
+
+<p><img src="/content_assets/softwareguion/fade-in-1.jpg" alt="Fade In" /></p>
+
+<p><a href="https://www.fadeinpro.com/">Fade In</a> se vende como un Final Draft mejor y mucho más barato. Al precio de $79.95 USD, sin dudas cumple lo segundo. Lo primero, sin embargo, es un poco más cuestionable.</p>
+
+<p>Las prestaciones del Fade In son más o menos básicas, y su interfaz no es demasiado versátil. En mi experiencia, resulta más comparable al Writer Duet que al Final Draft y, a riesgo de sonar un poco quisquilloso, siempre fue su interfaz algo vieja lo que me generó rechazo.</p>
+
+<h3 id="celtx">Celtx</h3>
+
+<p><img src="/content_assets/softwareguion/celtx-1.jpg" alt="Celtx" /></p>
+
+<p><a href="https://www.celtx.com/index.html">Celtx</a> solía ser la alternativa gratuita a Final Draft, pero en los últimos años tomó un rumbo diferente, generando un producto que está a medio camino entre el Writer Duet y el Movie Magic.</p>
+
+<p>Hoy en día, Celtx es un software que se usa solo mediante navegadores web, y que apunta a mucho más que a la escritura de guion: es además una herramienta de producción y dirección, contando con call sheets, planillas de calendario, función de storyboard, y varias cosas más. El resultado es previsible: la falta de especificidad respecto a la actividad de escritura hace a la herramienta de guion un tanto básica y limitada.</p>
+
+<p>Además, la versión gratuita del Celtx limita más las opciones, prohibiendo al usuario gratuito utilizar, por ejemplo, la clásica función de tarjetas por escena, o habilitándolo solo a un máximo de tres proyectos.</p>
+
+<p>Los precios de Celtx son similares a los de Writer Duet, pero las prestaciones parecen ser, aunque algo más confusas, superiores.</p>
+
+<p>Para explorar en el futuro (hasta el momento no lo hice), es interesante el hecho de que Celtx cuenta con herramientas de diseño narrativo en videojuegos, como la posibilidad de escribir diálogos ramificados o construir mapas de interacción.</p>
+
+<h3 id="causality-la-promesa">Causality, la promesa</h3>
+
+<p><img src="/content_assets/softwareguion/causality.png" alt="Causality" /></p>
+
+<p>Descubrí <a href="https://www.hollywoodcamerawork.com/causality.html">Causality</a> hace muy poco, y el concepto me resultó interesante. Se vende como un «Story Sequencer» más que como un programa de escritura, y su diferencial consiste en ver al guion como un gráfico de montaje más que como un texto, tomando una perspectiva estructural de la escritura por sobre todas las cosas.</p>
+
+<p>Actualmente Causality no soporta de forma muy eficiente la importación de archivos, y el mismo programa recomienda empezar un guion de cero en lugar de importar uno con el que ya se esté trabajando. Por esto, no lo pude probar demasiado. En algún futuro proyecto le daré una chance, y veremos como resulta.</p>
+
+<h3 id="scenarist-o-la-respuesta-a-nuestras-plegarias">Scenarist, o la respuesta a nuestras plegarias</h3>
+
+<p>En este contexto de programas incompletos, poco convincentes o simplemente carísimos, en 2016 se lanzó a la existencia <a href="https://kitscenarist.ru/en/index.html">Scenarist</a>, un programa de origen ruso que no deja de actualizar y mejorar sus prestaciones desde el lanzamiento hasta la fecha.</p>
+
+<p>Es muy completo, muy agradable de usar, y tiene varios elementos dignos de mención.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-1.jpg" alt="Scenarist" /></p>
+
+<p>La interfaz general es sencilla: barra de secciones a la izquierda, de herramientas en el lado superior, lista de escenas y, ocupando la mayor parte del espacio en pantalla, el guion.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-2.jpg" alt="Scenarist" /></p>
+
+<p>Las escenas su pueden colorear, y el color se hace visible tanto en la lista de escenas como en el guion mismo. Se pueden utilizar varios colores por escena, en caso de aplicar códigos de colores que se superpongan.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-3.jpg" alt="Scenarist" /></p>
+
+<p>Cuenta con modo oscuro para escribir de noche, como cualquier programa moderno.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-4.jpg" alt="Scenarist" /></p>
+
+<p>Y acá empieza lo interesante. La visión de tarjetas es muy configurable y práctica. Los colores aplicados a las escenas se trasladan acá, y al mover tarjetas de lugar, las escenas del guion también se mueven. Es decir que, desde esta pantalla, se puede reorganizar toda la estructura de escenas.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-5.jpg" alt="Scenarist" /></p>
+
+<p>Scenarist también cuenta con una sección de investigación dentro del mismo archivo de nuestro proyecto. Ahí se puede escribir la sinopsis, fichas de personajes o locaciones, y hasta tener organizado un historial de versiones.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-6.jpg" alt="Scenarist" /></p>
+
+<p>Además, a la sección de investigación se puede agregar lo que uno quiera, como un mapa conceptual (que, por ahora, habría que armar por fuera del programa), textos cualesquiera (como notas personales o ideas para el futuro), o imágenes (por ejemplo, capturas de pizarras de reuniones, referencias, etc.). Todo esto se guarda en el mismo archivo del proyecto.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-7.jpg" alt="Scenarist" /></p>
+
+<p>Por último, la sección de estadísticas e informes. Automáticamente, Scenarist genera informes del guion en cuestión, mostrando qué locaciones se utilizan más, qué personaje tiene más diálogo, qué porcentaje de diálogo y acción hay en el guion, y muchas cosas más, completamente configurables. Se pueden crear gráficos de duración de las escenas, o de presencia de personajes a lo largo del guion, por nombrar dos ejemplos.</p>
+
+<p><img src="/content_assets/softwareguion/scenarist-8.jpg" alt="Scenarist" /></p>
+
+<p>Scenarist hace todo esto por un precio de $0. La única suscripción paga que tiene consiste en almacenar archivos en la nube, algo totalmente factible de hacer con otra aplicación, como Dropbox. Es decir que, por fuera del almacenamiento online, es un programa <strong>totalmente gratuito</strong>.</p>
+
+<p>En el contexto de la oferta existente, cuando lo descubrí a duras penas lo podía creer. Ahora solo quiero que todo el mundo sepa que existe.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Desde que empecé a estudiar guion, hace unos doce años, estoy disconforme con las opciones que existen dentro del nefasto rubro de los programas de escritura. Dado que creo haber encontrado la solución a todos mis problemas, estimo que es un buen momento para hacer un repaso de las opciones existentes y de lo que es probablemente la opción superadora a todas ellas.]]></summary></entry><entry><title type="html">Hollow Knight</title><link href="http://localhost:4000/hollow-knight" rel="alternate" type="text/html" title="Hollow Knight" /><published>2018-09-09T00:00:00-07:00</published><updated>2018-09-09T00:00:00-07:00</updated><id>http://localhost:4000/hollow-knight</id><content type="html" xml:base="http://localhost:4000/hollow-knight"><![CDATA[<h2 id="la-exploración-como-forma-narrativa">La exploración como forma narrativa</h2>
+
+<ul>
+  <li><strong>Año</strong>: 2018</li>
+  <li><strong>Autores</strong>: Ari Gibson y William Pellen</li>
+  <li><strong>Producción</strong>: Team Cherry</li>
+</ul>
+
+<p><img src="/content_assets/hollowknight/hk1.jpg" alt="Hollow Knight" /></p>
+
+<p>En principio, puede parecer extraño escribir sobre un juego de plataforma en un blog sobre estructuras narrativas. Pero es que la forma de narrar de <a href="http://hollowknight.com/">Hollow Knight</a> es tan, pero tan particular, que no puedo evitar intentar hacer un análisis de su estructura.</p>
+
+<p><em>Hollow Knight</em> tiene una apariencia muy sencilla, lo que contrasta en extremo con la profundidad y la complejidad que desarrolla a medida que el jugador profundiza en el relato y en el mundo que presenta. En este sentido, la experiencia del jugador está abordada desde la dinámica y el recurso narrativo principal del juego: la exploración.</p>
+
+<p>Al comenzar el juego, el jugador es arrojado en el abandonado pueblo de <em>Dirtmouth</em>, sin ninguna indicación de adónde ir, cuál es la historia que está representando, o qué es lo que va a descubrir a continuación.</p>
+
+<p>Con la curiosidad como único motor, el jugador recorre el escenario frente a él, desciende por un túnel hacia un mundo subterráneo, y comienza a explorar de qué se trata ese lugar. Esta es la dinámica del juego y la única forma de relato, desde su primer minuto. Con el tiempo, el jugador va descubriendo, o infiriendo, lo que sucedió en ese lugar, por qué el estado actual de las cosas, y qué hacer para remediarlo. Jamás recibe una explicación al respecto, y la única forma de entender más y de recorrer el relato es la exploración, obstáculos y enemigos mediante.</p>
+
+<p><em>Hollow Knight</em> cuenta con un elemento que resume perfectamente su dinámica de forma visual: el mapa. Elemento fundamental para el recorrido y la exploración, el mapa del juego plasma el relato. Al iniciar, es apenas un bosquejo de una pequeña zona de <em>Hallownest</em>, el mundo en el que juego tiene lugar:</p>
+
+<p><img src="/content_assets/hollowknight/hk2.png" alt="Hallownest 1" /></p>
+
+<p>Con el tiempo, el relato es desplegado por el jugador que lo descubre, hasta su conclusión:</p>
+
+<p><img src="/content_assets/hollowknight/hk3.png" alt="Hallownest 2" /></p>
+
+<p>Con esta dinámica, el relato en <em>Hollow Knight</em> es doble. Por un lado, mediante la exploración de las ruinas de Hallownest, al jugador se le relata (en una suerte de narrativa emergente), la historia pasada del reino, lo que fue y lo que sucedió para que las cosas tengan su aspecto actual. Por otro lado, y en paralelo, existe el relato mismo de ese descubrimiento (y sus consecuencias posteriores), que es el que el jugador presencia «de primera mano».</p>
+
+<p>Esta forma de relato se corresponde de una forma soprendentemente precisa con la teoría de Ricardo Piglia en <em>Tesis sobre el cuento</em>, que determina que un cuento siempre cuenta dos historias, y que en el cuento clásico, «(…) un relato visible esconde un relato secreto, narrado de un modo elíptico y fragmentario.»</p>
+
+<p>En <em>Hollow Knight</em>, la historia secreta es estática, y la función del jugador es únicamente descubrirla. En cambio, la historia evidente es dinámica y variable, dependiente del recorrido, en absoluto lineal, que cada jugador decida realizar. El jugador puede descubrir apenas un porcentaje de la historia secreta mientras concluye su historia evidente, y esto último lo puede hacer no solo en el orden que le parezca, sino del modo que se le ocurra.</p>
+
+<p>De cualquier forma, la exploración es la base de ambos «cuentos», en uno como relato (para el pasado) y en otro como historia o acción (para el presente).</p>
+
+<p>La complejidad de la exploración como acción, en la historia presente, tiene aún una capa más de significado, en cuanto el crecimiento del personaje está intrínsecamente ligado a aquella. La exploración y el descubrimiento permiten al personaje encontrar nuevas herramientas, que le permitirán a su vez explorar más, en lugares antes impensados, y como consecuencia, crecer más. Con el crecimiento del personaje, la historia presente se agranda, y la pasada se ilumina cada vez en mayor medida.</p>
+
+<p><img src="/content_assets/hollowknight/hk4.png" alt="Estructura narrativa" /></p>
+
+<p>Esta estrucura doble de relato la grafiqué como una serie de círculos concéntricos, divididos a la mitad. En la mitad superior, cada uno de los semicírculos representa una región del mundo de Hallownest. La circunferencia de cada uno de estos círculos representa una instancia del crecimiento del personaje, que lo habilita a descubrir nuevas regiones. Cada una de las regiones que el personaje explora tiene su correlato en la otra historia, la historia oculta, en tanto cada una de ellas permite inferir un fragmento más de la misma.</p>
+
+<p>Queda por fuera de este gráfico el hecho de que este proceso no es en absoluto lineal, como dije más arriba. Cada semicírculo, entonces, debe ser considerado como un conjunto, dentro del cual existen diferentes posibilidades a explorar.</p>
+
+<p>Para terminar, quiero decir que la particularidad del modo de relato de <em>Hollow Knight</em> no es el modo en sí mismo. Como ya lo dijo Piglia, la historia secreta es propia del relato clásico. Además, es fácil encontrar ejemplos en el género rpg en el que el mundo relatado y su historia pasada transmiten tanto o más que la historia principal del juego (aunque, muchas veces, lo hagan de formas poco eficientes y poco creativas, abusando de recursos como el lore).</p>
+
+<p>Lo particular de este juego, entonces, consiste en la relación entre sus dos partes, profundamente simbiótica. El tema de la historia evidente no es otro que el pasado y la ruina, lo que transforma al vínculo entre una parte y la otra en algo necesario y orgánico. Los dos mundos de <em>Hollow Knight</em> viven constantemente el uno para el otro, generando una relación entre historia y relato que no sería exagerado calificar de perfecta.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[La exploración como forma narrativa]]></summary></entry><entry><title type="html">Lady Bird</title><link href="http://localhost:4000/lady-bird" rel="alternate" type="text/html" title="Lady Bird" /><published>2018-03-03T00:00:00-08:00</published><updated>2018-03-03T00:00:00-08:00</updated><id>http://localhost:4000/lady-bird</id><content type="html" xml:base="http://localhost:4000/lady-bird"><![CDATA[<ul>
+  <li><strong>Año</strong>: 2018</li>
+  <li><strong>Guionista</strong>: Greta Gerwig</li>
+  <li><strong>Producción</strong>: A24</li>
+</ul>
+
+<p><img src="/content_assets/ladybird/ladybird1.png" alt="Lady Bird" /></p>
+
+<p>Después de ver <a href="http://www.imdb.com/title/tt4925292/">Lady Bird</a>, me quedé con la sensación de que estructuralmente se trataba de una sucesión de momentos en alguna medida inconexos en la vida de sus personajes, y de que ahí radicaba la fuerza de la película. Soy adepto al género coming of age, y me pareció que esta película era muy honesta, directa, y genuina en lo que quería contar: apelaba al amontonamiento frenético de muchas escenas muy cortas que parecían anécdotas independientes (aunque cohesionadas en un todo muy completo como lo es el último año de colegio de su protagonista), y mediante ese amontonamiento expresaba un clima de «memorias» de la adolescencia que parece flotar constantemente durante el relato.</p>
+
+<p>Pensé un tiempo si realmente la estructura del relato se trataba de un amontonamiento, y decidí analizarlo con un poco de frialdad para corroborarlo. Resultó que no era tan así, y que esta sensación se generaba desde la dirección y desde el montaje, pero no tanto desde el guión. El único elemento de guión que aporta a este sentido general es el de las elipsis constantes e inadvertidas de días, noches y semanas que hacen que se conforme un año completo a partir de momentos aislados. Fuera de esto, la estructura argumental es muy sólida, coherente y causal.</p>
+
+<p align="center">
+<img src="/content_assets/ladybird/ladybird2.png" width="550" />
+</p>
+
+<p>La película trata, como ya dije, del último año de colegio de su protagonista Lady Bird, y de su relación conflictiva con su lugar de origen y residencia: Sacramento, California. Esta relación conflictiva se expresa con el colegio católico al que asiste, con sus compañeros, amigos y parejas, con toda su familia y, especialmente, con su madre. A grandes rasgos, es un relato sobre la búsqueda de la identidad, encarnada desde el título en el rechazo al nombre propio.</p>
+
+<p>La estructura, se puede dividir en tres actos bien marcados. En primer lugar, están los meses del grupo de teatro. Lady Bird entra con su mejor amiga Julie al grupo de teatro del colegio, prepara una obra con el grupo y la estrena, y en el camino conoce a Danny, su primer amor. La relación con Danny marca todo el acto, impregnándolo con su inocencia extrema. Cuando Lady Bird encuentra a Danny besándose con otro chico en un baño, se da cuenta de que es gay y su relación se desmorona. Paralelamente, tiene pequeños choques con su madre, en los que reclama que su madre no la apoya, y la madre insiste en que ella es una egoísta.</p>
+
+<p>A partir de la ruptura con Danny, Lady Bird debe buscar un nuevo lugar de pertenencia. Como ella misma dice al principio de la película, «le gustaría vivir una experiencia», y a partir de este deseo abandona el grupo de teatro y empieza a juntarse con un pequeño grupo de rebeldes del colegio. En lugar del teatro, va al <em>Deuce</em>, se junta con su nueva amiga Jenna, abandona a Julie, y empieza a salir con Kyle, un pseudo intelectual anarquista y anti-sistema. Esta fase de rebeldía de Lady Bird llega a su punto cúlmine cuando es suspendida de la escuela por hablarle mal a una profesora durante una charla anti-abortista. A partir de esta suspensión, tiene la pelea con la madre más fuerte de la película, en la que ambas profundizan en el mismo conflicto que en el primer acto sin llegar a ninguna conclusión. A continuación, tiene su primera y decepcionante relación sexual, y poco después, camino al baile de graduación, le llega a la epifanía de que esa no es ella, y de que no se siente parte de ese grupo de rebeldes.</p>
+
+<p>En el tercer acto, Lady Bird se reconcilia con Julie, se gradúa y es aceptada en una universidad en Nueva York. Luego de una última pelea con su madre, se va de casa y empieza a vivir el sueño que expresó en la primera escena de la película. Finalmente, luego de asistir a misa en una iglesia, se reconcilia internamente con el catolicismo, con Sacramento y con su madre, hecho que, poco después de aceptar por primera vez su nombre de pila, concluye su conflicto de identidad.</p>
+
+<p>Como se ve, estructuralmente el relato consta de una sucesión de hechos que, si bien es algo frenética, está perfectamente estructurada de forma lineal.</p>
+
+<p align="center">
+<img src="/content_assets/ladybird/ladybird3.png" width="200" />
+</p>
+
+<p>Dentro de esta estructura, es interesante notar que el único conflicto que se profundiza constantemente durante la película es el de la relación madre-hija, mientras que todos los demás empiezan y terminan en unidades que difícilmente escapan a un acto de duración.</p>
+
+<p>Menos el de la madre, los conflictos se expresan en una unidad de opuestos bien clara. Lady Bird debe elegir si su amiga es Jenna o Julie, tiene una relación con Danny o con Kyle, va al teatro o va al <em>Deuce</em>, se queda en Sacramento o va a Nueva York. La madre, en cambio, está presente en todas sus etapas y nunca presenta alternativa. El conflicto reside en aceptar la propia identidad, origen y familia, o en rechazarla, y termina primando lo primero.</p>
+
+<p>Esta diferencia entre la primera sensación que genera la película (el «amontonamiento» de sucesos en forma de memorias), y la que ofrece en cambio el análisis riguroso (una estructura clásica de minitrama), es un buen recordatorio de que la estructura narrativa, por mucho que la queramos y que nos dejemos obsesionar por ella, no lo es todo.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Año: 2018 Guionista: Greta Gerwig Producción: A24]]></summary></entry><entry><title type="html">The Long Dark</title><link href="http://localhost:4000/the-long-dark" rel="alternate" type="text/html" title="The Long Dark" /><published>2017-12-29T00:00:00-08:00</published><updated>2017-12-29T00:00:00-08:00</updated><id>http://localhost:4000/the-long-dark</id><content type="html" xml:base="http://localhost:4000/the-long-dark"><![CDATA[<h2 id="la-narrativa-sandbox">La narrativa <em>sandbox</em></h2>
+
+<ul>
+  <li><strong>Año</strong>: 2017</li>
+  <li><strong>Guionista</strong>: Raphael van Lierop</li>
+  <li><strong>Producción</strong>: Hinterland Studio</li>
+</ul>
+
+<p><img src="/content_assets/thelongdark/thelongdark1.png" alt="The Long Dark" /></p>
+
+<p>En una continuación únicamente temática de mi análisis de <em>Firewatch</em>, esta vez quiero escribir un poco sobre <a href="http://store.steampowered.com/app/305620/The_Long_Dark/">The Long Dark</a>, un juego canadiense del estudio Hinterland que entra en la categoría de <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SurvivalSandbox">survival sandbox</a>.</p>
+
+<p>La razón por la cual este juego me interesa, a nivel estructura narrativa, es porque esencialmente no contiene un relato lineal. A partir de esta falta de linealidad me pregunto cuál es la narrativa, cómo se estructura, y quién es el narrador.</p>
+
+<blockquote>
+  <p>«Sandbox» sometimes challenges traditional narrative, but it always puts something new in its place. — Thus, it does not remove the narrative, but rather transforms predetermined narrative into dynamic, responsive narrative. In other words, the sandbox game distinguished itself by making the responses more significant and meaningful.</p>
+
+  <p><a href="https://www.gamasutra.com/view/feature/132470/the_history_and_theory_of_sandbox_.php">Steve Breslin (Gamasutra)</a></p>
+</blockquote>
+
+<p>Antes que nada, es importante aclarar que <em>The Long Dark</em> tiene varios modos de juego, cada uno diferente en su nivel de estructura de relato. Por un lado existe el modo <em>Wintermute</em>, que es esencialmente un relato lineal por episodios de interactividad moderada a baja.</p>
+
+<p>Por otro lado está el modo <em>Challenge</em>, que se trata de una serie de retos al jugador con objetivos claros y, por lo tanto, de un relato más o menos predefinido.</p>
+
+<p>Por último, existe el modo <em>Survival</em>, que fue la causa del éxito de este juego en sus campañas de acceso anticipado: en este modo, el jugador es arrojado a un mundo abierto en el que únicamente debe sobrevivir, sin otro objetivo, rumbo, o relato que recorrer. Este es el modo que me interesa analizar.</p>
+
+<p>Aunque todas las regiones del enorme mundo abierto de <em>The Long Dark</em> están diseñadas y son invariables, los objetos y animales dispersos por ellas aparecen de forma aleatoria (siguiendo ciertos patrones) en cada partida. Esto anula la posibilidad de que el aparente sandbox sea en realidad un conjunto de misiones estáticas.</p>
+
+<p>Es decir que el juego presenta algunos <strong>elementos</strong> determinados: un escenario estático en forma de paisajes naturales; un conjunto de animales dispuestos a lo largo y ancho de todo ese escenario (que pueden funcionar como aliados/recursos, como obstáculos, o como las dos cosas); y una cantidad limitada de objetos distribuidos de forma aleatoria que pueden ser utilizados por el jugador.</p>
+
+<p>A partir de estos elementos, el jugador debe lidiar con cuatro <strong>variables</strong> para mantenerse vivo: hambre, sed, cansancio y frío. Cada una de estas variables influye dentro de una <strong>variable macro</strong> que es la salud, afectada también por factores externos (básicamente, ataques y enfermedades), que en definitiva es lo que el jugador debe resguardar como valor máximo del juego.</p>
+
+<p><img src="/content_assets/thelongdark/thelongdark2.png" alt="Gameplay mechanics" /></p>
+
+<p>De esta forma, el jugador se transforma en un nexo entre los <strong>elementos</strong> y las <strong>variables</strong>, lidiando con los primeros para controlar las segundas. El recorrido que realiza en esta función de nexo regulador se constituye como el <strong>relato</strong> del juego. El relato varía según el jugador, aunque siempre mantiene la misma estructura: los mismos elementos y las mismas variables.</p>
+
+<p>El trabajo del narrador es, entonces, plantear estos elementos y estas variables de manera tal que puedan dar pie a que el trabajo del jugador se convierta en un relato.</p>
+
+<p>Como modelo de relato <em>sandbox</em>, creo que <em>The Long Dark</em> funciona de forma muy eficiente. Como cierre a este texto y como ilustración del funcionamiento de este concepto, comencé una partida e hice pequeñas anotaciones a modo de bitácora de las cosas que me sucedían como jugador, asumiendo al personaje como una primera persona, y de esta forma verificar de qué forma generaban (o no) un relato coherente.</p>
+
+<p>Este es el resultado:</p>
+
+<h3 id="día-1">Día 1</h3>
+
+<p>Aparecí con poca ropa en la puerta de una mina abandonada en la ladera de una montaña. Desde allí, pude vislumbrar una ruta y, del otro lado, la costa de un mar. Apenas intenté acercarme a la costa, un lobo amenazó con atacarme, por lo que entré a la mina para refugiarme.</p>
+
+<p>Me iluminé con una bengala para recorrer la mina completamente, y mientras lo hacía junté carbón y algunos elementos para hacer fuego. Del otro lado de la mina encontré otra salida, pero decidí volver por la entrada original. Esta vez, como habían pasado algunas horas, el lobo ya no estaba, y como podía ver una especie de depósito en la costa, cruzando el camino, me acerqué corriendo (para evitar los lobos y resguardarme lo más rápido posible del frío) y entré en él.</p>
+
+<p>A un lado del depósito encontré unos tráilers con algo de comida y un poco de ropa más abrigada. Era tarde, por lo que decidí dormir ahí.</p>
+
+<h3 id="día-2">Día 2</h3>
+
+<p>Al día siguiente recorrí lo que quedaba del depósito sin encontrar mucho más que algunas barras de cereal y carne disecada, que fue mi alimento del día. Volví a la mina, la atravesé y salí por el otro lado. A lo lejos vi un faro, sobre la costa del mar semi-congelado. Evidentemente me encontraba en una especie de península. Corrí hasta el faro para evitar un pequeño grupo de lobos, y entré.</p>
+
+<p>El lago fue un refugio ideal: había madera, comida y bebida. Todavía no encontraba un hacha, un cuchillo, ni un rifle, cosas que iba a necesitar si quería no depender de la comida envasada que encontraba de forma muy aleatoria, por lo que sabía que no iba a poder quedarme ahí.</p>
+
+<p>Desde la punta del faro llegué a ver el casco de un barco hundido. Fui hasta él caminando sobre la superficie del agua congelada, y lo recorrí sin encontrar nada demasiado útil.</p>
+
+<p>Volví al faro a pasar la noche.</p>
+
+<h3 id="día-3">Día 3</h3>
+
+<p>A la mañana subí al faro a mirar alrededor, para orientarme y decidir en qué dirección avanzar. Tenía que elegir hacia dónde salir en busca de comida y, sobre todo, de un hacha, cuchillo o alguna herramienta. Desde la punta del faro vi una iglesia, cerca del ingreso a la mina, y decidí ir hasta allá.</p>
+
+<p>Dejé algunas cosas que pesaban demasiado en la mochila, y emprendí la marcha. Para mi decepción, la iglesia estaba destruida y no ofrecía reparo alguno. Además, no tenía nada que me pudiera servir. Había invertido tiempo y calorías en una misión inerte.</p>
+
+<p>Hice un fuego y esperé un rato para reponerme del frío. En cuanto mi temperatura corporal subió un poco, me fui siguiendo el camino. Ya era pasado el mediodía y tenía que ir pensando en dónde pasar la noche.</p>
+
+<p><img src="/content_assets/thelongdark/thelongdark3.png" alt="Screenshot" /></p>
+
+<p>Después de caminar un rato, encontré la entrada a otra mina.</p>
+
+<p>Recorrí la mina completa, encontrando algunas pocas cosas útiles (pero ningún hacha ni cuchillo), y armé el campamento en la salida del otro lado. Encontré unas provisiones militares que hicieron que no muriera de hambre, y pasé la noche esperando al día siguiente para explorar lo que hubiera del otro lado de la mina.</p>
+
+<h3 id="día-4">Día 4</h3>
+
+<p>Al día siguiente, luego de caminar un trecho, encontré una aldea pesquera abandonada al borde de un lago poblado de pequeños puestos pesqueros. Si lograba hacerme de una línea de pesca, podría conseguir alimento de forma consistente. Dediqué el día a recorrer el pueblo abandonado en busca de provisiones, y junté comida y varios elementos en una estación de servicio abandonada, donde pasé la noche.</p>
+
+<p><img src="/content_assets/thelongdark/thelongdark4.png" alt="Screenshot" /></p>
+
+<h3 id="día-5">Día 5</h3>
+
+<p>El quinto día fue la confirmación de que tenía los elementos para sobrevivir. Salí a recorrer los puestos pesqueros del lago buscando una línea de pesca, y en uno de ellos encontré la herramienta fundamental para cambiar mi destino: un cuchillo de caza. Ahora podía cortar carne de animales muertos, defenderme precariamente de lobos, y forjar otras herramientas. El futuro se presentaba un poco más prometedor.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[La narrativa sandbox]]></summary></entry><entry><title type="html">Firewatch</title><link href="http://localhost:4000/firewatch" rel="alternate" type="text/html" title="Firewatch" /><published>2017-07-22T00:00:00-07:00</published><updated>2017-07-22T00:00:00-07:00</updated><id>http://localhost:4000/firewatch</id><content type="html" xml:base="http://localhost:4000/firewatch"><![CDATA[<ul>
+  <li><strong>Año</strong>: 2016</li>
+  <li><strong>Guionista</strong>: Sean Vanaman</li>
+  <li><strong>Producción</strong>: Campo Santo</li>
+</ul>
+
+<p><img src="/content_assets/firewatch/firewatch1.jpg" alt="Firewatch" /></p>
+
+<p><a href="http://www.firewatchgame.com/">Firewatch</a> es un videojuego eminentemente narrativo del estudio Campo Santo, una suerte de descendiente indie de Telltale Games. Como su introducción misma confirma (una breve aventura de texto), <em>Firewatch</em> se puede resumir como un relato de Twine amplificado.</p>
+
+<p>El nivel de interactividad de este relato es muy bajo. La acción es lineal y las decisiones del jugador no afectan de manera directa el resultado de la historia. En este sentido, se enmarca en el patrón de que <a href="https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/">Sam Kabo Ashwell</a> llama <em>gauntlet</em>, definido por su linealidad:</p>
+
+<p><img src="/content_assets/firewatch/gauntlet.png" alt="Gauntlet" /></p>
+
+<p>Dentro de esta estructura general, <em>Firewatch</em> se destaca porque su trama no presenta una estructura clásica, razón por la cual, asumo, la reacción generalizada a su lanzamiento fue más bien de decepción. <em>Firewatch</em> no presenta una estructura clásica porque se construye mediante tres tramas paralelas que, en conjunto, dan significado a un <strong>conflicto interno</strong> que es el centro de la historia.</p>
+
+<p>Para entender esto, primero hice un diagrama con todos los hechos importantes de lo que identifiqué como las tres tramas que forman la historia del juego, agrupados en sus capítulos correspondientes: la trama de las turistas, la trama de los Goodwin, y la trama de Delilah.</p>
+
+<p><img src="/content_assets/firewatch/firewatch2.png" alt="Nodos narrativos" /></p>
+
+<p>Cada episodio es un día en la vida de Henry, aunque algunos días se muestren casi completos y otros sean solo unos breves minutos. Cada una de las acciones o nodos de acción están identificados en mi diagrama con un color, lo que permite ver la distribución de tramas por episodio.</p>
+
+<p>Desde ya, esta distinción de tramas solo es posible al concluir el juego y entender los sucesos que tuvieron lugar, ya que el misterio del relato en gran parte radica en la confusión de que las tramas de Goodwin y de las turistas puedan estar relacionadas. Al entender que no, se pueden separar los hechos y entender que se tratan de dos historias diferentes, cada una con su estructura propia.</p>
+
+<p>Buscar estas estructuras me llevó a comprender la construcción general de <em>Firewatch</em>:</p>
+
+<p><img src="/content_assets/firewatch/firewatch3.png" alt="Estructura narrativa" /></p>
+
+<p>Básicamente, como decía más arriba, el relato consta de tres tramas paralelas, que por momentos se confunden entre sí. Cada una de estas tramas tiene su estructura propia, cuyos puntos claves diagramé acá. La trama de Goodwin, además, incluye un nodo que también forma parte de la trama de las turistas (Goodwin destruye su campamento para incriminar a Henry y asustarlo).</p>
+
+<p>Es notable que, en términos de McKee, la trama de Goodwin es la única arquitrama del relato, mientras que la de Delilah y la de las turistas son claramente dos minitramas.</p>
+
+<p>Lo que es interesante es que, si bien en parte las dos tramas de más acción (turistas y Goodwin) se superponen, en realidad ocupan sectores bien diferenciados del juego. En la línea argumental de cada trama marqué dos puntos de referencia, uno blanco y uno negro, para entender con mayor claridad esta no-superposición de las tramas. El punto blanco, por ejemplo, demuestra cómo el <strong>detonante</strong> de la trama de Goodwin está recién después del <strong>segundo punto de giro</strong> de la trama de las turistas (más allá de que previo al detonante hubiera indicios de lo que Goodwin estaba haciendo).</p>
+
+<p>De la misma forma, el punto de referencia de color negro señala que para el momento en que la trama de Goodwin finaliza, la trama de las turistas terminó tiempo atrás (el día anterior).</p>
+
+<p>La trama de las turistas parece ser la más importante en la primera mitad del juego, o al menos en ella se focaliza el relato. Al llegar a su segundo punto de giro, la trama se pone en pausa, y se pone de relevancia la trama de Goodwin, que toma el control de la focalización durante toda la segunda mitad. Cerca del final de la trama de Goodwin, se retoma la trama de las turistas y se la concluye con el clímax y la resolución (que, por la confusión entre las tramas, contribuye a construir el clímax de la trama de Goodwin).</p>
+
+<p>Por su parte, la trama de Delilah es la única que está distribuida a lo largo de todo el relato, y es la que aborda de manera más directa el conflicto interno de Henry (sobre el que vuelvo un poco más adelante). Además, esta trama es la que está construida mediante el recurso fundamental de <em>Firewatch</em>: los diálogos. Por estas tres razones esta podría ser considerada la trama principal del juego, y de la misma forma se podrían considerar a las otras dos tramas como simples <em>McGuffins</em> sin mayor relevancia. Esa sería la lectura sencilla y un poco decepcionante de <em>Firewatch</em>, pero creo tener una lectura superadora.</p>
+
+<p>Antes de eso, y respecto a la construcción de los diálogos, creo que es valioso detenerse en el proceso de la misma. Para esto, los lecturas fundamentales que no quiero dejar de vincular son el <a href="https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/">post de Emily Short</a> en el que explica la estructura salience-based de esta construcción, la <a href="http://www.gdcvault.com/play/1015528/AI-driven-Dynamic-Dialog-through">charla de Elan Ruskin</a> que explica el desarrollo de dicha estructura, y una <a href="https://www.giantbomb.com/podcasts/talking-firewatch-with-sean-vanaman-and-rich-somme/1600-1503/">entrevista a Sean Vanagan y Rich Somme</a> en la que hablan del proceso creativo de estos diálogos.</p>
+
+<p>Mi lectura del relato, para terminar, coincide nuevamente con <a href="https://emshort.blog/2016/02/12/firewatch-campo-santo/">Emily Short</a>: no interpreto a la trama de Delilah como la trama principal, ni a las otras dos tramas como <em>McGuffins</em> porque, como decía al principio, las tres construyen el mismo significado en igual medida. Este significado tiene que ver con el conflicto interno del protagonista, que consiste en la imposibilidad de hacerse cargo de su vida y de sus problemas, encarnados en su esposa enferma, Julia. En este sentido, las tres tramas y todos sus personajes tienen como tema principal la responsabilidad (desde el título mismo del juego), y de esta forma cada una de las tramas parece hacerle señales de humo a Henry (valga la redundancia) para indicarle que vuelva a ver a Julia.</p>
+
+<p>Si bien la trama de Delilah es la que aborda de manera más directa el conflicto interno de Henry, lo hace de forma secundaria, ya que el conflicto de la trama de Delilah es básicamente romántico (una relación con sus obstáculos internos y externos): esta trama no es la del conflicto de Henry, y no es en realidad más central que las otras dos. En cambio, <em>Firewatch</em> construye su conflicto principal de forma metonímica a través de las tres tramas que atraviesan al protagonista. He aquí su apuesta y su comprobado riesgo.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Año: 2016 Guionista: Sean Vanaman Producción: Campo Santo]]></summary></entry><entry><title type="html">Colossal</title><link href="http://localhost:4000/colossal" rel="alternate" type="text/html" title="Colossal" /><published>2017-07-12T00:00:00-07:00</published><updated>2017-07-12T00:00:00-07:00</updated><id>http://localhost:4000/colossal</id><content type="html" xml:base="http://localhost:4000/colossal"><![CDATA[<ul>
+  <li><strong>Año</strong>: 2016</li>
+  <li><strong>Guionista</strong>: Nacho Vigalondo</li>
+  <li><strong>Producción</strong>: Voltage Pictures / Brightlight Pictures / Sayaka Producciones</li>
+</ul>
+
+<p><img src="/content_assets/colossal/colossal1.jpg" alt="Colossal" /></p>
+
+<p>Me resulta imposible no apelar a la cualidad evidentemente metafórica de <a href="http://www.imdb.com/title/tt4680182/?ref_=nv_sr_1">Colossal</a> a la hora de analizar su estructura. Además, sin dicha cualidad, esta estructura carecería de un sentido razonable desde un punto de vista clásico.</p>
+
+<p>Básicamente, la trama gira en torno a Gloria, una alcohólica que busca recuperar el control de su vida y que descubre que, en determinadas circunstancias, se manifiesta frecuentemente como un monstruo gigante que ataca Seúl. En este planteo, queda claro cuál es el objetivo de Gloria: recuperar el control de su vida para evitar cometer atrocidades en su faceta monstruo. Las cosas se complican cuando este primer objetivo es resuelto: es entonces que la faceta monstruo de Gloria se duplica en otro personaje (Oscar), y el objetivo de Gloria pasa a ser el de controlar a Oscar en lugar de controlarse a ella misma.</p>
+
+<p><img src="/content_assets/colossal/colossal2.png" alt="Estructura narrativa de Colossal" /></p>
+
+<p>Esto plantea una división muy marcada en la trama: durante la primera mitad de la película, Gloria está luchando contra sí misma. La ruptura con su pareja constituye el detonante de la trama y, a la vez, un llamado de atención sobre la protagonista. Gloria se muda y consigue un trabajo, aunque esto no representa ningún cambio de valor real: sigue siendo alcohólica, y sigue sin controlar su vida (un claro ejemplo es la llegada de la televisión, que no recuerda haberle pedido a Oscar).</p>
+
+<p>El cambio real sucede luego del ataque del monstruo en Seúl, y la comprensión de que el mismo es una materialización de sí misma. Esto último la hace recuperar el sentido de la responsabilidad: Gloria deja de tomar y envía un mensaje de paz a la capital coreana.</p>
+
+<p>A partir de ese momento, comienza la segunda parte de la película, en la que el conflicto se traslada a otro personaje: Oscar. A partir de una motivación que no logro encontrar (de ahí el signo de pregunta en el diagrama), el conflicto del control pasa a estar exteriorizado en Oscar. Ahora es él el que destruye Seúl, porque de un momento a otro resulta ser un psicópata, y la nueva misión de Gloria es controlarlo. Vale aclarar que, aunque por momentos lo parezca, el enfrentamiento entre Gloria y Oscar no es consecuencia de la falta de control de Gloria sobre sí misma (lo que generaría una continuidad argumental con la primera parte de la película), ya que en ningún momento la protagonista tiene ninguna recaída en este sentido. En todo momento es consciente de que tiene que detener a Oscar, y hace todo lo que está al alcance para lograrlo, eliminando de manera absoluta el conflicto interno que era el centro de la trama.</p>
+
+<p>Entonces, si el objetivo fuera comprender a estas dos grandes partes de la trama dentro de una misma estructura (pudiendo entender, por ejemplo, al <strong>segundo punto de giro</strong> como tal, aunque tenga una dinámica distinta que el primero), no hay alternativa más que apelar, como decía al principio, al carácter metafórico de casi todo lo que sucede en aquella. La transformación del conflicto interno en uno externo no puede ser más que una imagen de las dos caras del problema del personaje: el consciente y el inconsciente (también duplicado en su faceta humana y su faceta monstruo).</p>
+
+<blockquote>
+  <p>Well, buddy, right now I’m more out of control than ever.</p>
+</blockquote>
+
+<p>Ahora bien, más allá de que este cambio de rumbo de la trama pueda ser interpretado de esta manera, no deja de ser gratuito, por la mencionada ausencia de causa para tal efecto. Del mismo modo, la justificación del hecho traumático de la infancia que dio origen a los monstruos (la maldad pura de Oscar) no se identifica con el trauma psicológico que haya llevado a Gloria a su alcoholismo, lo que contribuye a la escisión de la trama. Esto remarca la incógnita del cambio de eje, enfatizando mi signo de pregunta.</p>
+
+<p>Si tuviera que arriesgar una explicación, diría que luego de la resolución del conflicto interno de Gloria ante la recuperación de su sentido de responsabilidad, la trama fue resuelta sin completar su desarrollo. Por lo tanto, la trama se amplió a través de un segundo conflicto, amparándose en que el potencial metafórico del tono de la película habilitara una lectura unificada.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Año: 2016 Guionista: Nacho Vigalondo Producción: Voltage Pictures / Brightlight Pictures / Sayaka Producciones]]></summary></entry><entry><title type="html">La princesa Mononoke</title><link href="http://localhost:4000/mononoke-hime" rel="alternate" type="text/html" title="La princesa Mononoke" /><published>2017-06-21T00:00:00-07:00</published><updated>2017-06-21T00:00:00-07:00</updated><id>http://localhost:4000/mononoke-hime</id><content type="html" xml:base="http://localhost:4000/mononoke-hime"><![CDATA[<ul>
+  <li><strong>Título original</strong>: もののけ姫 / Mononoke Hime</li>
+  <li><strong>Año</strong>: 1997</li>
+  <li><strong>Guionista</strong>: Hayao Miyazaki</li>
+  <li><strong>Producción</strong>: Studio Ghibli</li>
+</ul>
+
+<p><img src="/content_assets/mononoke/mononoke1.png" alt="La Princesa Mononoke" /></p>
+
+<p>Lo interesante de <a href="http://www.imdb.com/title/tt0119698/">La princesa Mononoke</a>, y a la vez la principal dificultad a la hora de analizarla, es la abundancia de agentes activos en su trama. Esta abundancia se puede simplificar mediante la agrupación de los personajes y mediante la separación de ellos en dos grandes bandos (la naturaleza y la humanidad), pero la complejidad retorna al notar que, así como no existe ningún antagonista claro, el protagonista no toma partido con ninguno de estos dos bandos.</p>
+
+<p>Para hacer un breve resumen de la trama: Ashitaka, un príncipe emishi, queda maldito luego de una pelea con un espíritu, y debe dirigirse a los bosques del oeste para encontrar una cura a su maldición. Allí, se encuentra con la lucha entre las fuerzas humanas, personificadas en la líder Eboshi y su ciudad/forja, y las fuerzas de la naturaleza, representadas por San (la princesa Mononoke) y los lobos que forman su familia del bosque. Esta lucha es compleja y está atravesada por varios grupos, que diagramé de esta manera:</p>
+
+<p><img src="/content_assets/mononoke/mononoke-personajes.png" alt="Diagrama 1" /></p>
+
+<p>Dada la cantidad de agentes, me pareció importante remarcar los vínculos entre ellos, clasificándolos al menos como de amistad o de hostilidad. Estos vínculos están representados por las flechas rojas y verdes, y tienen una dirección definida. Existen casos en que la enemistad es mutua (por ejemplo, entre los cazadores y los jabalíes), en que la amistad es mutua (Ashitaka y San), en que la enemistad es unidireccional (Eboshi busca matar al Shishi Gami, pero el Shishi Gami no está en contra de Eboshi), y en que la amistad es unidireccional (San protege al Shishi Gami, pero este último no demuestra nada por ella o su tribu). Casi todas las relaciones con el Shishi Gami son unidireccionales, lo que por momentos parecería convertirlo en un objeto en lugar de un agente activo, exceptuando la relación con Ashitaka, a quien salva de la muerte.</p>
+
+<p>El Shishi Gami se encuentra a la izquierda de San porque es «protegido» por ella, en la medida en que San se asume protectora del bosque. Por esto es que, aunque Eboshi en última instancia busque matar al Shishi Gami y no a San, el conflicto principal entre personajes se da entre ellas dos, que encarnan a los dos paradigmas de todos los demás personajes.</p>
+
+<p>Ashitaka, Eboshi y San son los tres agentes que articulan la historia, y su igual tamaño simboliza esta equidad de fuerzas. En el conflicto entre Eboshi y San, Ashitaka actúa como un obstáculo para ambas, interponiéndose en su camino sin ayudar a ninguna de las dos. Todas las acciones de Ashitaka bogan por la pacificación, y en última instancia es él quien logra que el conflicto termine, con iguales pérdidas para ambos bandos.</p>
+
+<p>Salvada entonces la configuración de personajes en la trama, y con mayor comprensión sobre cómo es la relación entre ellos, queda ver cómo se inserta el protagonista, Ashitaka, en dicha configuración.</p>
+
+<p>El camino de Ashitaka, que constituye la trama principal de la película, tiene un correlato fuerte y bastante directo con la estructura del monomito de Campbell. En el diagrama de análisis estructural que realicé, tuve esto en cuenta.</p>
+
+<p><img src="/content_assets/mononoke/mononoke-estructura.png" alt="Diagrama 2" /></p>
+
+<p>En los recuadros verdes por encima de los nodos de la trama ubiqué lo que considero los puntos estructurales de la trama, y por debajo, en itálica, esbocé el correlato con el monomito según la reformulación de Christopher Vogler. Además, los colores de cada nodo distinguen a cada uno de los tres agentes principales (Ashitaka, la naturaleza, y la humanidad). Por último, las líneas punteadas distinguen a los tres actos según la estructura clásica, y las flechas indican una relación causal directa entre nodos de acción.</p>
+
+<p>Sin dudas el <strong>detonante</strong> de la trama es la infección de Ashitaka, que lo empuja a salir a buscar su cura. Esto corresponde, a su vez, con el <em>llamado a la aventura</em> del camino del héroe. En esta estructura no está presente el <em>rechazo al llamado</em>, ya que Ashitaka está dispuesto a cumplir su misión desde el primer momento en que es convocado a ella. A su vez, el <em>encuentro con el mentor</em> es muy menor y anecdótico, y se presenta como un enunciado directo de lo que el protagonista tiene que hacer para obtener su cura.</p>
+
+<p>A partir de entonces se realiza el llamado por Vogler <em>cruce del primer umbral</em>, mediante una secuencia de montaje en la que Ashitaka se adentra en lo desconocido, y simultáneamente se da inicio al momento del monomito en el que se presentan las <em>pruebas, aliados y enemigos</em>. Básicamente, aparecen las forjas, Eboshi, San y el bosque sagrado; todos los agentes principales de esta trama. Todos, como ya dije, cumplen el rol de aliados de Ashitaka, cuyo enemigo mortal es la maldición que lleva en forma de cicatriz.</p>
+
+<p>El <strong>primer punto de giro</strong> puede pasar desapercibido, porque no es sino hasta un momento de reflexión posterior que queda claro la importancia del momento en cuestión: es cuando Ashitaka ve por primera vez a San. Si bien en el acto no intercambian más que miradas, varias secuencias más adelante Ashitaka le revela a San, en un delirio febril, que piensa que es hermosa, y que hay algo que supo desde el primer momento que la vio. Este diálogo un tanto críptico no es sino una declaración de amor de Ashitaka a San, por lo que permite leer hacia atrás al primer momento en que la vio como el momento en que se enamoró de ella. A partir de aquí no hay vuelta atrás para Ashitaka, que debido a su amor interviene en la pelea con Eboshi para evitar la muerte de San, y que a partir de entonces se pondrá en peligro cuantas veces sea necesario para salvarla. El reconocimiento de este punto de giro ayuda a comprender las acciones de Ashitaka hacia adelante y la forma en que éstas estructuran la trama.</p>
+
+<p>La intervención de Ashitaka entre San y Eboshi lo hace correr serio riesgo de muerte y lo posiciona claramente como el obstáculo entre las dos. Esto se acerca a la descripción del <em>calvario</em> de la estructura del monomito, y además funciona como tal en cuanto que Ashitaka obtiene una <em>recompensa</em> clara: a partir de que el Shishi Gami le salva la vida (el <strong>punto medio</strong> de la trama), San lo respeta y empieza a quererlo.</p>
+
+<p>A continuación, hay un resignación de Ashitaka respecto a su objetivo primordial, que es la cura de su maldición. Esto puede leerse en clave de <em>regreso</em> en lo que al monomito se refiere, aunque sea de forma algo suave: Ashitaka es derrotado y decide alejarse para morir. En este momento su curso de acción es nuevamente interrumpido, al dar inicio Eboshi a la cacería del Shishi Gami. El edicto imperial que lleva el monje para convencer a Eboshi, movido por su propia avaricia, es anecdótico, algo que realza el carácter coincidental de este giro de la trama, del cual ni Ashitaka ni San forman parte. En este carácter coincidental del edicto imperial, desencadenante de la acción, los hilos de la trama hacen su desafortunada aparición.</p>
+
+<p>Más allá de esto, la cacería y el simultáneo ataque de los samuráis a las forjas ponen en peligro a San, y por lo tanto reactivan a Ashitaka para defenderla, conformándose como el <strong>segundo punto de giro</strong>.</p>
+
+<p>Finalmente, todos los agentes se encuentran en el lago sagrado: Eboshi buscando al Shishi Gami, el Shishi Gami para detener al demonio que posee a Ottoko, San dominada por dicho demonio, los cazadores acompañando a Eboshi, y Ashitaka para salvar a San. Salvando a San, Ashitaka no logra intervenir a tiempo para evitar el ataque al Shishi Gami, lo que habilita al <strong>clímax</strong> de la trama: Eboshi le corta la cabeza al Shishi Gami, que es capturada por el monje imperial, y el espíritu del bosque procede a destruir todo a su paso para recuperarla.</p>
+
+<p>Ashitaka y San logran devolverle la cabeza al Shishi Gami luego de una extensa secuencia de acción, y como consecuencia, ambos son curados de su maldición. Esta devolución de la cabeza, en un escenario apocalíptico en el que ambos están a punto de morir, es el segundo calvario o <em>resurección</em> desde una perspectiva del monomito, y la cura de la maldición, el objetivo inicial de Ashitaka, es el elíxir que obtiene a cambio.</p>
+
+<p>Recapitulando, entonces, parece ser que la relación amorosa (aunque platónica) entre Ashitaka y San es la clave estructural de la trama. En este sentido, es notoria la diferencia existente entre lo que Ashitaka busca (la cura) y lo que lo mueve efectivamente a la acción (a partir del primer punto de giro, su amor por San). Esto puede ser considerado inconsistente, pero también puede ser visto como una metamorfosis del objetivo: una vez que se enamora, tal vez la salvación para el héroe no es ya la vida, sino el amor.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Título original: もののけ姫 / Mononoke Hime Año: 1997 Guionista: Hayao Miyazaki Producción: Studio Ghibli]]></summary></entry><entry><title type="html">Taboo</title><link href="http://localhost:4000/taboo" rel="alternate" type="text/html" title="Taboo" /><published>2017-06-15T00:00:00-07:00</published><updated>2017-06-15T00:00:00-07:00</updated><id>http://localhost:4000/taboo</id><content type="html" xml:base="http://localhost:4000/taboo"><![CDATA[<p><em>Este artículo fue publicado originalmente en <a href="https://estructurasnarrativas.wordpress.com/">Estructuras Narrativas</a>, mi antiguo blog.</em></p>
 
 <ul>
   <li><strong>Año</strong>: 2017</li>
