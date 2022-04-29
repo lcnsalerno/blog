@@ -79,7 +79,7 @@ A filmmaker travels to Sweden looking for the site of the refugee camp where his
 
 - *Moheda* was produced in 2021 with the support of Le Fresnoy Studio National Des Arts Contemporains.
 - The biggest challenge in this project was the most interesting thing about it: working with the personal archive of the director and author of the film, which involved listening to hours of taped voice mail sent by his parents in exile during the 70s and early 80s to their family in Argentina. Building a story out of an eight-year-long stream of voice messages was unlike anything else I've ever done before.
-- The opportunity of helping another author bring their vision to reality was also invaluable. Part of what I had to do, aside from bringing structure to the voices from the archives, was to put emotional distance between the source material and the author. Being the son of the main characters, it was nearly impossible for him to do so on his own, so I'm very grateful for being let into such an intimate experience.
+- The opportunity of helping another author bring their vision to reality was also invaluable. Part of what I had to do, aside from bringing structure to the voices from the archives, was putting emotional distance between the source material and the author. Being the son of the main characters, it was nearly impossible for him to do so on his own, so I'm very grateful for having been let into such an intimate experience.
 
 Visit the [film's website](https://www.lefresnoy.net/fr/Le-Fresnoy/production/2021/film/1873/moheda).
 
@@ -102,7 +102,7 @@ A young student travels to the jungle town of Eldorado in search of his best fri
 ### About the project
 
 - *Eldorado* was produced between 2019 and 2021 with the support of the National Film Institute of Argentina (INCAA). It has yet to be released.
-- This was the first project in which I collaborated with Francisco Bouzas. Started when we were only freshmen university students, we worked on it for nearly a decade of drafts until we reached the final draft used in production. This long process taught me a lot about writing, filmmaking, and time.
+- This was the first project in which I collaborated with filmmaker Francisco Bouzas. Started when we were only freshmen university students, we worked on it for nearly a decade of drafts until we reached the final draft used in production. This long process taught me a lot about writing, filmmaking, and time.
 - Screenplay in competition for Best Original Screenplay at the International New Latin American Film Festival La Habana 2014.
 
 Visit the [film's website](https://antesmuertocine.com/en/in-progress/eldorado/).
