@@ -1,6 +1,9 @@
 ---
 title: "El nuevo western y la autoflagelación"
+exclude: true
 ---
+
+(this post is also [in English](/new-western-and-self-flagellation))
 
 ## Hacia un análisis de la reinvención del protagonista de frontera
 
