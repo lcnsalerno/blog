@@ -1,6 +1,7 @@
 ---
 title: "El nuevo western y la autoflagelación"
 image: /content_assets/western/thelastofus2.png
+summary: Hacia un análisis de la reinvención del protagonista de frontera.
 exclude: true
 ---
 

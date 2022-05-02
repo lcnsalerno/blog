@@ -1,6 +1,7 @@
 --- 
 title: "Kishōtenketsu, la estructura en cuatro actos"
 image: /content_assets/kishotenketsu/jujutsu_kaisen.webp
+summary: Una breve investigación sobre la estructura narrativa japonesa por excelencia.
 exclude: true
 ---
 

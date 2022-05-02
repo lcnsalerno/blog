@@ -1,6 +1,7 @@
 ---
 title: "The New Western And Self-Flagellation"
 image: /content_assets/western/thelastofus2.png
+summary: Towards An Analysis Of The Frontier's Hero's Reinvention, featuring The Last of Us Part II, Red Dead Redemption 2, and The Searchers.
 ---
 
 (leer [en español](/el-nuevo-western-y-la-autoflagelacion))
