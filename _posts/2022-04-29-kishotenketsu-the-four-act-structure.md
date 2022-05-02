@@ -1,7 +1,7 @@
 --- 
 title: "Kishōtenketsu, The Four-Act Structure"
 image: /content_assets/kishotenketsu/jujutsu_kaisen.webp
-summary: A brief research on the Japanese way of structuring stories.
+summary: A brief research on the Japanese way of building stories.
 ---
 
 (leer [en español](/kishotenketsu-la-estructura-en-cuatro-actos))
