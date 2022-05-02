@@ -1,12 +1,13 @@
 --- 
 title: "Kishōtenketsu, la estructura en cuatro actos"
+image: /content_assets/kishotenketsu/jujutsu_kaisen.webp
 exclude: true
 ---
 
 (this post is also [in English](/kishotenketsu-the-four-act-structure))
 
 Últimamente estoy completamente inmerso en la mal llamada estructura clásica del guion y la narrativa en general: los tres actos. Atribuida a Aristóteles en base a su afirmación de que las historias deben tener un principio, medio y final, esta estructura fue en realidad popularizada por Syd Field en 1979 en su libro *Screenplay*, en el que además introduce los conceptos de puntos de giro, claves para la concepción ahora "clásica" de las estructuras narrativas.
-
+<!--more-->
 <p align="center">
 <img src="/content_assets/kishotenketsu/syd-field.png" width="550">
 </p>

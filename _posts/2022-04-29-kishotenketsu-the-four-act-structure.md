@@ -1,6 +1,6 @@
 --- 
 title: "Kishōtenketsu, The Four-Act Structure"
-excerpt_separator: <!--more-->
+image: /content_assets/kishotenketsu/jujutsu_kaisen.webp
 ---
 
 (leer [en español](/kishotenketsu-la-estructura-en-cuatro-actos))

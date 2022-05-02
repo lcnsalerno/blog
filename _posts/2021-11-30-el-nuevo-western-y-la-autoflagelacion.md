@@ -1,5 +1,6 @@
 ---
 title: "El nuevo western y la autoflagelación"
+image: /content_assets/western/thelastofus2.png
 exclude: true
 ---
 

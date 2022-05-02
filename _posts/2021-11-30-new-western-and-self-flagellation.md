@@ -1,5 +1,6 @@
 ---
 title: "The New Western And Self-Flagellation"
+image: /content_assets/western/thelastofus2.png
 ---
 
 (leer [en español](/el-nuevo-western-y-la-autoflagelacion))
