@@ -1,6 +1,6 @@
 --- 
 title: "Kishōtenketsu, The Four-Act Structure"
-image: /content_assets/kishotenketsu/kishotenketsu-diagram.png
+image: /content_assets/kishotenketsu/jujutsu_kaisen.webp
 summary: Trying out if summaries work for Twitter cards.
 ---
 

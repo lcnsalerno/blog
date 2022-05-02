@@ -1,0 +1,63 @@
+I"e(<ul>
+  <li><strong>Año</strong>: 2017</li>
+  <li><strong>Guionistas</strong>: Chips Hardy, Tom Hardy, Steven Knight, Emily Ballou y Ben Hervey</li>
+  <li><strong>Producción</strong>: Hardy, Son &amp; Baker / Scott Free Productions</li>
+  <li><strong>Distribución</strong>: BBC / FX</li>
+</ul>
+
+<p>Empiezo esta serie de análisis de estructuras narrativas con algo un poco complejo: una serie de ocho episodios. ¿Debería haber empezado con una película? Sí, debería haberlo hecho.</p>
+
+<p><img src="/content_assets/taboo/taboo-screenshot.webp" alt="taboo" /></p>
+
+<p><a href="http://www.imdb.com/title/tt3647998/">Taboo</a> es una serie de ficción ambientada en Londres en 1814, que narra las aventuras de James Delaney, interpretado por su co-creador Tom Hardy, en su búsqueda de venganza contra la sociedad que lo dio a luz.</p>
+
+<p>Luego de doce años de ausencia, en los cuales se lo daba por muerto en un naufragio en África, Delaney regresa a Londres para el entierro de su padre. Su retorno a la vida, en términos legales, implica que es el heredero del estrecho de Nootka, un territorio en disputa entre EE.UU. y el Reino Unido, de alto interés comercial para la East India Company. Delaney reclama su herencia y entabla su trama de venganza contra Sir Stuart Strange, director de la East India Company y responsable directo de su naufragio doce años atrás atrás.</p>
+
+<p>Es difícil entender del todo la estructura de la trama, porque los intereses cruzados de los personajes e instituciones que la protagonizan hacen que las cosas se confundan un poco. Tanto la Corona Británica como Estados Unidos y la East India Company complotan, en un momento u otro, contra Delaney. Además, Delaney mismo toma acciones en contra de cada uno de los tres a lo largo de la serie. Por lo tanto, no es tan sencillo reconocer un antagonista.</p>
+
+<p>Por otro lado, el objetivo mismo de Delaney no es del todo claro. Es evidente que odia profundamente a Stuart Strange, pero su venganza es tan rebuscada que por momentos hace dudar sobre si lo que busca no es efectivamente un simple negocio comercial.</p>
+
+<p>No obstante, analizando la estructura de la trama principal las cosas quedan un poco más claras.</p>
+
+<p>La primera gran acción de Delaney al volver a Londres es asistir a una reunión con la East India Company, en la cual rechaza enérgicamente la oferta de Strange de comprar el Estrecho de Nootka. En dicha reunión queda claro que Delaney entiende a la perfección el valor de esa propiedad, que Strange está determinado a conseguirla, y que Delaney está determinado a no venderla.</p>
+
+<p>Pero además, queda claro que la motivación de Delaney es personal. Cuando el intento de negociación se hace denso, Delaney exhibe un pequeño monólogo a Sir Stuart Strange, recordándole que él fue alguna vez un cadete de la East India, y que sabe que Strange es el mal encarnado. Esto se resume en la siguiente frase de Delaney:</p>
+
+<blockquote>
+  <p>I do know the evil that you do, because I was once a part of it.</p>
+</blockquote>
+
+<p>Entonces, al final del primer episodio, mediante esta escena que funciona como el clímax del episodio y como el <strong>detonante</strong> de la trama principal de la serie, las cosas están claras. Se ubican en los dos extremos de la trama a Delaney y a Strange, al Estrecho de Nootka como el objeto en disputa entre ambos, y a sendas motivaciones. Lo único que no queda del todo claro es cuál es el plan de Delaney, si efectivamente su objetivo es vengarse de Strange, y cuál es la causa de su odio personal (esta está en su pasado y, en algún punto, forma parte de lo que no se habla, que da nombre a la serie).</p>
+
+<p>A partir de este planteo, la trama consiste en una serie de acciones y reacciones de Delaney y Strange en su lucha, en la cual intervienen dos agentes importantes pero secundarios, que son la Corona Británica y los Estados Unidos de América, encarnados en el Príncipe Regente y Solomon Coop por un lado, y el Doctor Dumbarton y Carlsbad por el otro. La trama, entonces, se puede diagramar de la siguiente manera:</p>
+
+<p><img src="/content_assets/taboo/taboo-estructura.png" alt="Diagrama 1" /></p>
+
+<p>Cada círculo es un capítulo, y cada rectángulo es una acción principal llevada a cabo por alguno de los agentes centrales de la trama. La Corona y EE.UU. son agentes independientes, y por eso tienen su propio color, pero son funcionales a una u otra parte del enfrentamiento principal de acuerdo al momento de la trama.</p>
+
+<p>A partir del detonante, Delaney funda su propia compañía, estableciendo con claridad su intención de competir con la EIC. Entonces, el antagonista reacciona por primera vez, en un fallido intento de asesinato a Delaney. Esta reacción de Stuart Strange hace ver que la negociación pacífica ha quedado atrás, y genera un punto de no retorno en la trama. De alguna manera, establece que el duelo es a muerte, y se constituye como <strong>primer punto de giro</strong> al final del segundo episodio.</p>
+
+<p>Existe otra lectura posible de este relato, que es el de considerar a la muerte de Horace Delaney como detonante, previo al punto de ataque de la trama, y al rechazo de la oferta de la EIC como primer punto de giro, ya que es entonces que comienzan los enfrentamientos entre protagonista y antagonista. Si bien este análisis resulta tentador y perfectamente posible, consideré que el rechazo de la negociación, si bien cumple varias condiciones para ser un punto de giro, no cumple con ser un punto de no retorno, sino más bien un reconocimiento del terreno narrativo en el cual nos manejamos.</p>
+
+<p>A partir de este intento de asesinato, se presentan las peripecias de la trama, en las que entran en juego los agentes secundarios que son puestos al servicio de Delaney o de Strange. Más allá de EE.UU. y la Corona Británica como grandes actores, que alternan con o sin intención en su funcionalidad al protagonista o al antagonista, hay una serie de personajes que son claramente fieles a uno u otro bando de esta batalla. El siguiente gráfico ilustra el funcionamiento de estos personajes:</p>
+
+<p><img src="/content_assets/taboo/taboo-personajes-por-equipo.png" alt="personajes" /></p>
+
+<p>Los personajes se ubican de izquierda a derecha según su relación de fidelidad con el protagonista, siendo Lorna Bow el personaje más fiel a Delaney, y Solomon Coop el más hostil. Esto último es interesante porque Solomon Coop y el Príncipe Regente (la Corona Británica) terminan oponiéndose a Delaney más que el mismo Stuart Strange (sobre esto vuelvo más adelante).</p>
+
+<p>En la zona de confluencia entre los dos equipos están Dumbarton, el médico norteamericano, que nunca pierde su ambigüedad; e Ibbotson, el granjero que en un principio es clave para Delaney al cederle su hogar para la fabricación de pólvora, pero luego lo traiciona. La Corona, si bien por momentos es funcional a Delaney, termina de tal modo enemistada con él que no tuve opción más que ubicarla en el “team” Strange.</p>
+
+<p>Siguiendo con el análisis estructural, interpreto como <strong>segundo punto de giro</strong> al asesinato de Winter, la hija de Helga. Esta es la acción más importante de la EIC contra Delaney (en respuesta al robo de potasio que enfrenta a la Corona con la EIC, la acción más importante del propio Delaney), y es la que precipita el fin, porque lleva a Delaney a su punto más bajo: su encarcelamiento y tortura. Nuevamente se trata de un punto de no retorno, ya que cambia el balance de fuerzas fuertemente en favor de la EIC.</p>
+
+<p>En la cárcel, Delaney juega su última carta, habilitada directamente por el enfrentamiento entre la Corona y la EIC que él mismo había generado varios episodios atrás: extorsionar a Strange con el hundimiento del Influence. Esta nueva negociación entre Strange y Delaney, al comienzo del último episodio de la temporada, se puede homologar con la primera negociación entre ambos, al final del primer episodio, que se constituía como detonante. En esta oportunidad, Strange tiene que ceder, dando la victoria en la disputa a Delaney. Este, y no la gran escena de batalla y explosiones, es el <strong>clímax</strong> de la temporada y la resolución del conflicto.</p>
+
+<p>Lo que sigue es una suerte de epílogo en el cual se da un último gran enfrentamiento, pero con los agentes del conflicto cambiados: ya no es Strange el antagonista, sino la misma Corona Británica, que intenta asesinarlo con un ejército entero. A causa de este cambio de roles en el cual la Corona deviene antagonista, la escena no funciona como el clímax que pretende ser, y hay algo fuera de tono en todo el final de la temporada.</p>
+
+<p>¿Es posible considerar a la Corona como el antagonista de Delaney durante toda la trama, y a la EIC como uno de los agentes ambivalentes? No parece posible en tanto que, no solo llega muy tarde a tomar cartas en el asunto (recién en el cuarto capítulo plantea una acción concreta contra Delaney), sino que apunta a todos los frentes a la vez, sin configurar una relación de fuerzas que dé forma a la trama principal.</p>
+
+<p>Quedan varios interrogantes sobre cómo funcionan las fuerzas en esta narración, no sólo por el intercambio de roles de la Corona y Strange en el último episodio, del cual hablé suficiente, sino también por las acciones de motivación poco clara que aparecen como peripecias durante todo el segundo acto, que contribuyen al carácter ambiguo de la motivación del protagonista.</p>
+
+<p>Un ejemplo de esto es la importancia dramática de la fabricación de pólvora, mercancía de intercambio para Nootka, que parece indicar que Delaney tiene un interés genuino por el comercio en el estrecho, lo que indicaría que su motivación no es solo la venganza contra Strange. Esto se contradice, no solo con buena parte de su accionar (que podríamos salvar interpretando que el éxito comercial de su propia compañía es en sí misma la venganza), sino también con el final de temporada, en el que Delaney cambia de rumbo y finalmente no se dirige a Nootka.</p>
+
+<p>Estos interrogantes podrían ser resueltos en la siguiente temporada, al menos en cuanto a las motivaciones de Delaney; pero también es posible que, simplemente, no tengan respuesta en este diseño.</p>
+:ET
