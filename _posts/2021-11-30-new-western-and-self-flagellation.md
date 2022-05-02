@@ -7,7 +7,7 @@ title: "The New Western And Self-Flagellation"
 ## Towards An Analysis Of The Frontier's Hero's Reinvention
 
 *The Last of Us Part II* ends with a sequence that flirts with horror and is, like many other sequences in the game, unapologetically morbid. Ellie, the main character whose growth we've witnessed since she was thirteen years old in *The Last Of Us*—and by the way, one could make a case that this Ellie is a different character altogether from that other one, with very few things in common—, finds Abby, her enemy, and forces her to fight to the death by threatening to slit her adopted sibling's throat.
-
+<!--more-->
 The fight between Ellie and Abby is a long sequence of hard hits, stabs, and any number of vicious attacks between them that turn the water in which they're fighting red. In a particularly brutal moment, Abby bites Ellie's hand, plucking away a couple of phalanxes from her fingers. The fight does not end in death for any of the main characters because in a sudden moment of lucidity—that took hundreds of cruel and bloody murders until finally arriving—Ellie remembers Joel and, honoring his memory, decides to let Abby go.
 
 Having survived her insatiable thirst for vengeance, Ellie makes her way back home only to find it completely empty, except for her personal items packed up for her in what used to be her room. Among them, it's her guitar.

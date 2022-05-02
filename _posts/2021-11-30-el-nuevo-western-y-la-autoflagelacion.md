@@ -8,7 +8,7 @@ exclude: true
 ## Hacia un análisis de la reinvención del protagonista de frontera
 
 *The Last of Us Part II* termina con una secuencia que coquetea con el horror y, como otras secuencias en el juego, es abiertamente morbosa. Ellie, la protagonista que vimos crecer desde los trece años en *The Last of Us* (que, dicho sea de paso, podría argumentar que es otro personaje, con pocos puntos de conexión con su contraparte adulta) encuentra a Abby, su enemiga, y la obliga a pelear a muerte bajo amenaza de degollar a su ser más querido.
-
+<!--more-->
 La pelea entre Ellie y Abby es una sucesión de golpes duros, cuchillazos, y cualquier otra variante de agresiones entre las dos mujeres, que tiñe el agua en la que pelean con sangre. En un momento particularmente bestial, Abby muerde la mano de Ellie, arrancándole un par de falanges de dos dedos. La pelea no termina con la muerte de ninguna de las dos protagonistas del juego, porque en un ataque de lucidez (al que llevó cientos de muertes crueles y sangrientas llegar) Ellie decide perdonarle la vida a Abby en honor a su padre adoptivo, Joel.
 
 Habiendo sobrevivido a su búsqueda insaciable de venganza, Ellie vuelve a su hogar para encontrarlo casi enteramente vacío, con excepción de sus artículos personales apilados contra una pared de un cuarto. Entre ellos, está su guitarra.

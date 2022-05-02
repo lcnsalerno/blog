@@ -1,11 +1,12 @@
 --- 
 title: "Kishōtenketsu, The Four-Act Structure"
+excerpt_separator: <!--more-->
 ---
 
 (leer [en español](/kishotenketsu-la-estructura-en-cuatro-actos))
 
 Lately I've been completely immersed in the so-called classic story structure in screenwriting and narrative: the three-act structure. Attributed to Aristotle based on his principle of stories having a beginning, middle, and end, this structure was actually popularized by Syd Field in 1979 through his book *Screenplay*, in which he also introduces the concept of plot points, basic to the now "classic" concept of narrative structures.
-
+<!--more-->
 <p align="center">
 <img src="/content_assets/kishotenketsu/syd-field.png" width="550">
 </p>
