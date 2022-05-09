@@ -12,7 +12,7 @@ Throughout all the shifts in interests and activities I've gone through in my li
 
 Writing for film is a lifelong passion of mine, and as such, my academic background is in Screenwriting (UNA, Buenos Aires, and UCLA, Los Angeles).
 
-Years ago I discovered video game writing as a professional path, and being a big video game enthusiast I devoted myself to interactive narrative. I have written professionally for both commercial video games in the mobile scene and independent, experiemental projects.
+Years ago I discovered video game writing as a professional path, and being a big video game enthusiast I devoted myself to interactive narrative. I have written professionally for both commercial video games in the mobile scene and independent, experimental projects.
 
 I live in Los Angeles, California.
 
