@@ -43,7 +43,7 @@ Visit the [the screenplay's Coverfly page](https://writers.coverfly.com/projects
 
 ## Ciudad Oculta
 
-Feature. Drama. 82 pages. Co-written with Francisco Bouzas.
+Feature. Drama. Co-written with Francisco Bouzas.
 
 <p align="left">
 <img src="/content_assets/film/ciudad_oculta.jpg" width="500">
