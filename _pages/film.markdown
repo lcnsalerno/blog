@@ -55,7 +55,7 @@ A young *murguero* with a panic disorder is summoned by his recently-deceased fr
 
 ### About the project
 
-- *Ciudad Oculta* is currently in production and will be released in 2023.
+- *Ciudad Oculta* is currently in production and will be released in Argentina and worldwide in 2023.
 - Writing this screenplay posed an interesting challenge: starting from the idea of shooting in the slum Ciudad Oculta with non-professional actors who mostly play themselves, in what would be a fiction permanently intertwined with reality, we set out to build a fully genre-based, classic story, weaving a dream with the fabric of reality.
 - Along with Francisco Bouzas, co-writer and director, we drew from the Orpheus myth and *The Wizard of Oz*, bringing classics of Western culture, which pretty much shape our view of the world, into a story deeply rooted in the Buenos Aires slums.
 
@@ -77,7 +77,7 @@ A filmmaker travels to Sweden looking for the site of the refugee camp where his
 
 ### About the project
 
-- *Moheda* was produced in 2021 with the support of Le Fresnoy Studio National Des Arts Contemporains.
+- *Moheda* was produced in 2021 with the support of Le Fresnoy Studio National Des Arts Contemporains (France).
 - The biggest challenge in this project was the most interesting thing about it: working with the personal archive of the director and author of the film, which involved listening to hours of taped voice mail sent by his parents in exile during the 70s and early 80s to their family in Argentina. Building a story out of an eight-year-long stream of voice messages was unlike anything else I've ever done before.
 - The opportunity of helping another author bring their vision to reality was also invaluable. Part of what I had to do, aside from bringing structure to the voices from the archives, was putting emotional distance between the source material and the author. Being the son of the main characters, it was nearly impossible for him to do so on his own, so I'm very grateful for having been let into such an intimate experience.
 
