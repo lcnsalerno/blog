@@ -8,11 +8,37 @@ I've worked on several film projects as a screenwriter, some of them produced an
 
 Here are some of the screenplays that I wrote and the most memorable projects I was a part of:
 
+- [High Press](#high-press)
 - [The Tennis *Racket*](#the-tennis-racket) 
 - [Ciudad Oculta](#ciudad-oculta) 
 - [Moheda](#moheda) 
 - [Eldorado](#eldorado)
 - [Berlín](#berlín)
+
+---
+
+## High Press
+
+Feature. Sports Drama. 104 pages.
+
+<p align="left">
+<img src="/content_assets/film/high_press.jpg" width="500">
+</p>
+
+### Logline
+
+In 1994, a stagnant entertainment executive has to get in touch with his roots to accomplish the mission of creating a brand new team for the upcoming Major Soccer League. 
+
+### About the project
+
+- Screenplay written during the Professional Program in Screenwriting, UCLA (2021-2022).
+- The project was a huge challenge for me, in which I delved into a subject I knew almost nothing about to use it as a vehicle for deeper themes such as a identity and race. 
+- I worked with a group of characters that functioned in close relation to the lead and each other, which allowed me to explore character relationships in a way I had not done it before.
+- During this experience I got to write a type of film that I very much enjoy watching, following some of my all-time favorite sport movies, such as *Moneyball* and *Jerry Maguire*.
+
+Visit the [the screenplay's Coverfly page](https://writers.coverfly.com/projects/view/dafa1969-9a85-44fe-a930-c8a6f059ea91/High_Press) and request a read.
+
+([back](/film))
 
 ---
 
