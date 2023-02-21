@@ -18,7 +18,7 @@ These are the most relevant projects I've worked on:
 
 ## Neighbors
 
-Visual Novel. Coming to Steam 2022.
+Visual Novel. Release date TBD.
 
 <p align="left">
 <img src="/content_assets/videogames/neighbors.png" width="500">
