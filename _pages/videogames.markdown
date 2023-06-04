@@ -8,11 +8,52 @@ I've been working as a video game writer since 2016. Interactive writing has bee
 
 These are the most relevant projects I've worked on:
 
+- [June's Journey](#junes-journey)
+- [Ghost Detective](#ghost-detective)
 - [Neighbors](#neighbors)
 - [Chapters: Interactive Stories](#chapters-interactive-stories)
 - [Buenos Aires Tokio](#buenos-aires-tokio)
 - [Full-Time Job](#full-time-job)
 - [Zoe: Interactive Story](#zoe-interactive-story)
+
+## June's Journey
+
+Hidden objects narrative-driven mobile game. Android and iOS.
+
+<p align="left">
+<img src="/content_assets/videogames/junesjourney.jpg" width="500">
+</p> 
+
+### About the project
+
+- *June's Journey*, by Wooga, is the #1 top-grossing Hidden Object game in the world.
+- Launched in 2017, it's still going strong with weekly content releases, for a total of +300 main story chapters released since launch.
+- As one of the six writers in the writing team, I write main chapters and side stories, create characters and settings, and plot entire year-long volumes, working in the writers room with my team on a almost daily basis.
+- Writing chapters in *June's Journey* also implies briefing artists on new characters, backgrounds, and cutscenes, and brainstorming with design on puzzle scenes.
+
+Play June's Journey now on [Android](https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/junes-journey-hidden-objects/id1200391796).
+
+([back](/videogames))
+
+---
+
+## Ghost Detective
+
+Hidden Objects narrative-driven mobile game. TBR.
+
+<p align="left">
+<img src="/content_assets/videogames/ghostdetective.png" width="500">
+</p> 
+
+### About the project
+
+- *Ghost Detective*, by Wooga, is an upcoming Hidden Objects narrative-driven mobile game, in which the player takes the role of a New Orleans detective that has to solve her own murder. 
+- I was part of a team of five writers in this project, and some of my tasks included plotting entire arcs and reviewing scripts in the writers room; writing both side and main quests; creating characters and lore; keeping internal documentation up to date; and finally, being the game design liaison, a key role ensuring the smooth communication between design and writing.
+- *Ghost Detective* is a complex game that features a branching narrative, story puzzles in the form of item collections, a strong setting--the city of New Orleans, which demanded lots of research and a special attention to character voices--, +20 characters, and +15 locations. 
+
+Play Ghost Detective *very soon*.
+
+([back](/videogames))
 
 ---
 
@@ -28,7 +69,7 @@ Visual Novel. Release date TBD.
 
 - *Neighbors* is a Visual Novel set during the Salem Witch Trials of 1692.
 - Based on both the true events and Arthur Miller's *The Crucible*, I chose interactive media to retell the story in first person, making player choices deeply conflictive in ethical and moral terms.
-- In this project, I was not only the writer but also the owner and creator. I led a team of two artists that created all the original art, and I implemented the writing and the animations using Naninovel and Unity.
+- In this project, I am not only the writer but also the owner and creator. I led a team of two artists that created all the original art, and I implemented the writing and the animations using Naninovel and Unity.
 
 Visit the game's [Steam page](https://store.steampowered.com/app/1857200/Neighbors__A_Visual_Novel/).
 
@@ -109,7 +150,7 @@ Interactive fiction app. iOS and Android.
 
 - Zoe is an interactive series about a teenage witch, that has achieved a 4.6 score and 2.6K ratings on iOS and a 4.4 score and 123K ratings on Android.
 - As a part of a writing team that consisted of a total of five writers, my tasks included the development and design of the plot of each of the five seasons. Also, I was in charge of outlining each of the 120 episodes of the series, along with designing the free and premium player choices in all of them. 
-- Part video game, part animated TV show, this project provided me ample experience in a writer's room-like environment as well as in episodic writing, which proved extremely useful in my career ever since.
+- Part video game, part animated TV show, this project provided me ample experience in a writers room-like environment as well as in episodic writing, which proved extremely useful in my career ever since.
 
 Visit the [Android](https://play.google.com/store/apps/details?id=com.otherguys.zoe&hl=en_US&gl=US) and [iOS](https://apps.apple.com/us/app/zoe-interactive-story/id1322000007) store pages.
 
