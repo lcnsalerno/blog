@@ -39,7 +39,7 @@ Play June's Journey now on [Android](https://play.google.com/store/apps/details?
 
 ## Ghost Detective
 
-Hidden Objects narrative-driven mobile game. TBR.
+Hidden Objects narrative-driven mobile game. Netflix Games.
 
 <p align="left">
 <img src="/content_assets/videogames/ghostdetective.png" width="500">
@@ -47,11 +47,11 @@ Hidden Objects narrative-driven mobile game. TBR.
 
 ### About the project
 
-- *Ghost Detective*, by Wooga, is an upcoming Hidden Objects narrative-driven mobile game, in which the player takes the role of a New Orleans detective that has to solve her own murder. 
+- *Ghost Detective*, by Wooga, is a Hidden Objects narrative-driven mobile game, in which the player takes the role of a New Orleans detective that has to solve her own murder. 
 - I was part of a team of five writers in this project, and some of my tasks included plotting entire arcs and reviewing scripts in the writers room; writing both side and main quests; creating characters and lore; keeping internal documentation up to date; and finally, being the game design liaison, a key role ensuring the smooth communication between design and writing.
 - *Ghost Detective* is a complex game that features a branching narrative, story puzzles in the form of item collections, a strong setting--the city of New Orleans, which demanded lots of research and a special attention to character voices--, +20 characters, and +15 locations. 
 
-Play Ghost Detective *very soon*.
+Play Ghost Detective now on [Netflix Games](https://netflix.com/game/81680595).
 
 ([back](/videogames))
 
