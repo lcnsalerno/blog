@@ -17,6 +17,25 @@ Here are some of the screenplays that I wrote and the most memorable projects I 
 
 ---
 
+## Inland
+
+Feature. Western. 98 pages.
+
+<p align="left">
+<img src="/content_assets/film/inland.jpg" width="500">
+</p>
+
+### Logline
+
+In 1870, Coronel Mansilla heads a small expedition to the southern frontier of Argentinean territory, aiming to persuade Mariano, the leader of the pampa community, to sell their lands for expanding the railroad network. Convincing Mariano to is the only way to achieve it without a massacre, and the only way for Mansilla to fulfil his dream: To return to Buenos Aires.
+
+### About the project
+
+- A Patagonic western based on Argentine literature's classic *An Expedition to the Ranquel Indians* by Lucio V. Mansilla, and inspired by the works of John Ford, Ángel Della Valle, and Cormac McCarthy, *Inland--Tierra Adentro* is a screenplay born of a deep conviction of what Argentine cinema can achieve.
+- Winner of the Screenwriting award *Todos los Tiempos el Tiempo* (2023).
+
+---
+
 ## High Press
 
 Feature. Sports Drama. 104 pages.
