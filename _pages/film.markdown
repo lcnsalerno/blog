@@ -8,6 +8,7 @@ I've worked on several film projects as a screenwriter, some of them produced an
 
 Here are some of the screenplays that I wrote and the most memorable projects I was a part of:
 
+- [Inland](#inland)
 - [High Press](#high-press)
 - [The Tennis *Racket*](#the-tennis-racket) 
 - [Ciudad Oculta](#ciudad-oculta) 
@@ -27,12 +28,12 @@ Feature. Western. 98 pages.
 
 ### Logline
 
-In 1870, Coronel Mansilla heads a small expedition to the southern frontier of Argentinean territory, aiming to persuade Mariano, the leader of the pampa community, to sell their lands for expanding the railroad network. Convincing Mariano to is the only way to achieve it without a massacre, and the only way for Mansilla to fulfil his dream: To return to Buenos Aires.
+In 1870, Coronel Mansilla heads a small expedition to the southern frontier of Argentinean territory, aiming to persuade Mariano, the leader of the pampa community, to sell their lands for expanding the railroad network. Convincing Mariano is the only way to achieve it without a massacre, and the only way for Mansilla to fulfil his dream: To return to Buenos Aires.
 
 ### About the project
 
-- A Patagonic western based on Argentine literature's classic *An Expedition to the Ranquel Indians* by Lucio V. Mansilla, and inspired by the works of John Ford, Ángel Della Valle, and Cormac McCarthy, *Inland--Tierra Adentro* is a screenplay born of a deep conviction of what Argentine cinema can achieve.
-- Winner of the Screenwriting award *Todos los Tiempos el Tiempo* (2023).
+- A Patagonic western based on Argentine literature's classic *An Expedition to the Ranquel Indians* by Lucio V. Mansilla, and inspired by the works of John Ford, Ángel Della Valle, and Cormac McCarthy, *Inland*--Tierra Adentro is a screenplay born of a deep conviction of what Argentine cinema can be.
+- Winner of the Screenwriting award [*Todos los Tiempos el Tiempo*](https://todoslostiempos.org/2023/11/22/fueron-anunciados-los-ganadores-de-la-edicion-2023/) (2023).
 
 ---
 
