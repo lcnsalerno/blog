@@ -28,7 +28,7 @@ Feature. Western. 98 pages.
 
 ### Logline
 
-In 1870, Coronel Mansilla heads a small expedition to the southern frontier of Argentinean territory, aiming to persuade Mariano, the leader of the pampa community, to sell their lands for expanding the railroad network. Convincing Mariano is the only way to achieve it without a massacre, and the only way for Mansilla to fulfil his dream: To return to Buenos Aires.
+In 1870, a worn out Colonel leads an expedition beyond the frontier to convince the native people of Patagonia to sell their land, as a last attempt to avoid a massacre.
 
 ### About the project
 
