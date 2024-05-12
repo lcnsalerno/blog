@@ -32,8 +32,10 @@ In 1870, a worn out Colonel leads an expedition beyond the frontier to convince 
 
 ### About the project
 
+- Awarded 1st prize at the Screenwriting award [*Todos los Tiempos el Tiempo*](https://todoslostiempos.org/2023/11/22/fueron-anunciados-los-ganadores-de-la-edicion-2023/) (2023).
 - A Patagonic western based on Argentine literature's classic *An Expedition to the Ranquel Indians* by Lucio V. Mansilla, and inspired by the works of John Ford, Ángel Della Valle, and Cormac McCarthy, *Inland*--Tierra Adentro is a screenplay born of a deep conviction of what Argentine cinema can be.
-- Winner of the Screenwriting award [*Todos los Tiempos el Tiempo*](https://todoslostiempos.org/2023/11/22/fueron-anunciados-los-ganadores-de-la-edicion-2023/) (2023).
+
+([back](/film))
 
 ---
 
@@ -89,7 +91,7 @@ Visit the [the screenplay's Coverfly page](https://writers.coverfly.com/projects
 
 ## Ciudad Oculta
 
-Feature. Drama. Co-written with Francisco Bouzas.
+Feature. Drama. 2024. Co-written with Francisco Bouzas.
 
 <p align="left">
 <img src="/content_assets/film/ciudad_oculta.jpg" width="500">
@@ -101,7 +103,7 @@ A young *murguero* with a panic disorder is summoned by his recently-deceased fr
 
 ### About the project
 
-- *Ciudad Oculta* is currently in production and will be released in Argentina and worldwide in 2023.
+- *Ciudad Oculta* premiered at [Berlin Critics' Week 2024](https://wochederkritik.de/en_US/city-lights/).
 - Writing this screenplay posed an interesting challenge: starting from the idea of shooting in the slum Ciudad Oculta with non-professional actors who mostly play themselves, in what would be a fiction permanently intertwined with reality, we set out to build a fully genre-based, classic story, weaving a dream with the fabric of reality.
 - Along with Francisco Bouzas, co-writer and director, we drew from the Orpheus myth and *The Wizard of Oz*, bringing classics of Western culture, which pretty much shape our view of the world, into a story deeply rooted in the Buenos Aires slums.
 
@@ -111,7 +113,7 @@ A young *murguero* with a panic disorder is summoned by his recently-deceased fr
 
 ## Moheda
 
-Short film. Documentary. Credited as Additional Writing.
+Short film. Documentary. 2022. Credited as Additional Writing.
 
 <p align="left">
 <img src="/content_assets/film/moheda.jpg" width="500">
@@ -135,7 +137,7 @@ Visit the [film's website](https://www.lefresnoy.net/fr/Le-Fresnoy/production/20
 
 ## Eldorado
 
-Feature. Drama. Co-written with Francisco Bouzas.
+Feature. Drama. 2021. Co-written with Francisco Bouzas.
 
 <p align="left">
 <img src="/content_assets/film/eldorado.png" width="500">
@@ -147,7 +149,7 @@ A young student travels to the jungle town of Eldorado in search of his best fri
 
 ### About the project
 
-- *Eldorado* was produced between 2019 and 2021 with the support of the National Film Institute of Argentina (INCAA). It has yet to be released.
+- *Eldorado* was produced with the support of the National Film Institute of Argentina (INCAA). 
 - This was the first project in which I collaborated with filmmaker Francisco Bouzas. Started when we were only freshmen university students, we worked on it for nearly a decade of drafts until we reached the final draft used in production. This long process taught me a lot about writing, filmmaking, and time.
 - Screenplay in competition for Best Original Screenplay at the International New Latin American Film Festival La Habana 2014.
 
@@ -159,7 +161,7 @@ Visit the [film's website](https://antesmuertocine.com/en/in-progress/eldorado/)
 
 ## Berlín
 
-Short film. Drama. Credited as Writer and Director.
+Short film. Drama. 2016. Credited as Writer and Director.
 
 <p align="left">
 <img src="/content_assets/film/berlin.jpg" width="500">
@@ -171,10 +173,10 @@ On the eve of a move abroad, two friends wait for an order at a barbecue restaur
 
 ### About the project
 
+- Premiered at Buenos Aires Festival Internacional de Cine Independiente (BAFICI) in 2016 and awarded Special Mention of the Jury.
 - I wrote and directed this project, leading a team of +10 people and directing professional actors in what was an amazing independepent film production experience.
 - I wanted to tell a story in the most minimalistic way possible. Knowing the restrictions of our budget and general production conditions, I knew that having minimal cast and only one location and scene would be the best way to do it.
 - Inspired by Ozu's long, significant scenes between two characters, I tried to work with subtext, character goals, and silences.
-- Premiered at Buenos Aires Festival Internacional de Cine Independiente (BAFICI) in 2016 and awarded Special Mention of the Jury.
 
 [Watch the film.](https://vimeo.com/144156227)
 

@@ -26,9 +26,9 @@ Hidden objects narrative-driven mobile game. Android and iOS.
 
 ### About the project
 
-- *June's Journey*, by Wooga, is the #1 top-grossing Hidden Object game in the world.
+- *June's Journey*, by Wooga, is the #1 top-grossing Hidden Object game in the world. It made headlines in 2023 for surpassing the [$1billion mark in revenue](https://www.pocketgamer.biz/news/82874/junes-journeys-1billion-revenue-makes-german-gaming-history/), the first game from Germany to do so.
 - Launched in 2017, it's still going strong with weekly content releases, for a total of +300 main story chapters released since launch.
-- As one of the six writers in the writing team, I write main chapters and side stories, create characters and settings, and plot entire year-long volumes, working in the writers room with my team on a daily basis.
+- As one of the six writers in the writing team, I lead writers rooms, write main chapters and side stories, create characters and settings, and plot month-long arcs and year-long volumes, working in the writers room with my team on a daily basis.
 - Writing chapters in *June's Journey* includes briefing artists on new characters, backgrounds, and cutscenes, and brainstorming with design on puzzle scenes.
 
 Play June's Journey now on [Android](https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/junes-journey-hidden-objects/id1200391796).
