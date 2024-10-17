@@ -14,7 +14,7 @@ Writing for film is a lifelong passion of mine, and as such, my academic backgro
 
 Years ago I discovered video game writing as a professional path, and being a big video game enthusiast I devoted myself to interactive narrative. I have written professionally for both commercial video games in the mobile scene and independent, experimental projects.
 
-I live in Berlin, Germany, and I'm currently a Game Writer for Wooga.
+I'm currently based in Los Angeles, California.
 
 <p align="center">
 <img src="/content_assets/profile.jpg" width="300">
